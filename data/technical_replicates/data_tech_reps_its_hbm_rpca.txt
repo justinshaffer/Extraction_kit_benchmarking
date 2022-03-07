@@ -1,0 +1,188 @@
+sample1	sample2	value	sample1_type	sample1_extraction_kit_round	sample2_type	sample2_extraction_kit_round	sample_type	sample_type_2	biomass_plate
+12201.soil.rhizosphere.I.2.standard.H	12201.soil.rhizosphere.I.3.standard.H	0.5408472003918507	rhizosphere soil site 3	PowerSoil r1	rhizosphere soil site 3	PowerSoil r1	soil	rhizosphere soil	high
+12201.soil.rhizosphere.I.2.standard.H	12201.soil.rhizosphere.I.1.standard.H	0.6250775198747412	rhizosphere soil site 3	PowerSoil r1	rhizosphere soil site 3	PowerSoil r1	soil	rhizosphere soil	high
+12201.stool.mouse.K.2.standard.H	12201.stool.mouse.K.1.standard.H	0.2848425969526608	mouse.feces.K	PowerSoil r1	mouse.feces.K	PowerSoil r1	stool	mouse feces	high
+12201.stool.mouse.K.2.standard.H	12201.stool.mouse.K.3.standard.H	0.19577203302828874	mouse.feces.K	PowerSoil r1	mouse.feces.K	PowerSoil r1	stool	mouse feces	high
+12201.soil.bare.J.1.standard.H	12201.soil.bare.J.3.standard.H	0.23440510432993253	bare soil site 1	PowerSoil r1	bare soil site 1	PowerSoil r1	soil	bare soil	high
+12201.soil.bare.J.1.standard.H	12201.soil.bare.J.2.standard.H	0.33779172917577355	bare soil site 1	PowerSoil r1	bare soil site 1	PowerSoil r1	soil	bare soil	high
+12201.oral.human.E.3.standard.H	12201.oral.human.E.2.standard.H	0.3969585858551916	human.saliva.E	PowerSoil r1	human.saliva.E	PowerSoil r1	oral	human saliva	high
+12201.oral.human.E.3.standard.H	12201.oral.human.E.1.standard.H	0.3670033834808244	human.saliva.E	PowerSoil r1	human.saliva.E	PowerSoil r1	oral	human saliva	high
+12201.stool.mouse.J.1.standard.H	12201.stool.mouse.J.2.standard.H	0.13909651822443256	mouse.feces.J	PowerSoil r1	mouse.feces.J	PowerSoil r1	stool	mouse feces	high
+12201.stool.mouse.J.1.standard.H	12201.stool.mouse.J.3.standard.H	0.08311125174897943	mouse.feces.J	PowerSoil r1	mouse.feces.J	PowerSoil r1	stool	mouse feces	high
+12201.soil.bare.K.2.standard.H	12201.soil.bare.K.3.standard.H	0.3297588572927457	bare soil site 2	PowerSoil r1	bare soil site 2	PowerSoil r1	soil	bare soil	high
+12201.soil.bare.K.2.standard.H	12201.soil.bare.K.1.standard.H	0.1622689786280958	bare soil site 2	PowerSoil r1	bare soil site 2	PowerSoil r1	soil	bare soil	high
+12201.oral.human.E.2.standard.H	12201.oral.human.E.1.standard.H	0.4243474495136126	human.saliva.E	PowerSoil r1	human.saliva.E	PowerSoil r1	oral	human saliva	high
+12201.soil.rhizosphere.I.3.standard.H	12201.soil.rhizosphere.I.1.standard.H	0.20793160183193846	rhizosphere soil site 3	PowerSoil r1	rhizosphere soil site 3	PowerSoil r1	soil	rhizosphere soil	high
+12201.soil.bare.J.3.standard.H	12201.soil.bare.J.2.standard.H	0.4488071029169843	bare soil site 1	PowerSoil r1	bare soil site 1	PowerSoil r1	soil	bare soil	high
+12201.stool.mouse.J.2.standard.H	12201.stool.mouse.J.3.standard.H	0.11744251058714825	mouse.feces.J	PowerSoil r1	mouse.feces.J	PowerSoil r1	stool	mouse feces	high
+12201.soil.bare.K.3.standard.H	12201.soil.bare.K.1.standard.H	0.3993608902614089	bare soil site 2	PowerSoil r1	bare soil site 2	PowerSoil r1	soil	bare soil	high
+12201.soil.bare.L.2.standard.H	12201.soil.bare.L.3.standard.H	0.37980352539909945	bare soil site 3	PowerSoil r1	bare soil site 3	PowerSoil r1	soil	bare soil	high
+12201.soil.bare.L.2.standard.H	12201.soil.bare.L.1.standard.H	0.08625372189329246	bare soil site 3	PowerSoil r1	bare soil site 3	PowerSoil r1	soil	bare soil	high
+12201.stool.mouse.K.1.standard.H	12201.stool.mouse.K.3.standard.H	0.2036448184776255	mouse.feces.K	PowerSoil r1	mouse.feces.K	PowerSoil r1	stool	mouse feces	high
+12201.soil.bare.L.3.standard.H	12201.soil.bare.L.1.standard.H	0.3084171218600654	bare soil site 3	PowerSoil r1	bare soil site 3	PowerSoil r1	soil	bare soil	high
+12201.food.kimchi.1.2.standard.H	12201.food.kimchi.1.3.standard.H	0.5728108836026188	kimchi_container_1	PowerSoil r1	kimchi_container_1	PowerSoil r1	food	kimchi	high
+12201.soil.rhizosphere.H.1.norgen.H	12201.soil.rhizosphere.H.2.norgen.H	0.6671350890313177	rhizosphere soil site 2	Norgen	rhizosphere soil site 2	Norgen	soil	rhizosphere soil	high
+12201.soil.rhizosphere.H.1.norgen.H	12201.soil.rhizosphere.H.3.norgen.H	0.13408913362321107	rhizosphere soil site 2	Norgen	rhizosphere soil site 2	Norgen	soil	rhizosphere soil	high
+12201.soil.rhizosphere.G.3.norgen.H	12201.soil.rhizosphere.G.2.norgen.H	0.4995486836462217	rhizosphere soil site 1	Norgen	rhizosphere soil site 1	Norgen	soil	rhizosphere soil	high
+12201.soil.rhizosphere.G.3.norgen.H	12201.soil.rhizosphere.G.1.norgen.H	0.26130230556951434	rhizosphere soil site 1	Norgen	rhizosphere soil site 1	Norgen	soil	rhizosphere soil	high
+12201.soil.rhizosphere.G.2.norgen.H	12201.soil.rhizosphere.G.1.norgen.H	0.6525230428971698	rhizosphere soil site 1	Norgen	rhizosphere soil site 1	Norgen	soil	rhizosphere soil	high
+12201.stool.mouse.J.3.norgen.H	12201.stool.mouse.J.2.norgen.H	0.6618044642192693	mouse.feces.J	Norgen	mouse.feces.J	Norgen	stool	mouse feces	high
+12201.soil.rhizosphere.H.2.norgen.H	12201.soil.rhizosphere.H.3.norgen.H	0.6659359606850312	rhizosphere soil site 2	Norgen	rhizosphere soil site 2	Norgen	soil	rhizosphere soil	high
+12201.stool.mouse.K.2.pro.H	12201.stool.mouse.K.3.pro.H	0.19178404003353638	mouse.feces.K	PowerSoil Pro	mouse.feces.K	PowerSoil Pro	stool	mouse feces	high
+12201.stool.mouse.K.2.pro.H	12201.stool.mouse.K.1.pro.H	0.15642416444414545	mouse.feces.K	PowerSoil Pro	mouse.feces.K	PowerSoil Pro	stool	mouse feces	high
+12201.soil.rhizosphere.G.2.pro.H	12201.soil.rhizosphere.G.1.pro.H	0.39988668963039964	rhizosphere soil site 1	PowerSoil Pro	rhizosphere soil site 1	PowerSoil Pro	soil	rhizosphere soil	high
+12201.soil.rhizosphere.G.2.pro.H	12201.soil.rhizosphere.G.3.pro.H	0.20053265367384523	rhizosphere soil site 1	PowerSoil Pro	rhizosphere soil site 1	PowerSoil Pro	soil	rhizosphere soil	high
+12201.soil.bare.J.2.pro.H	12201.soil.bare.J.1.pro.H	0.2259366106228957	bare soil site 1	PowerSoil Pro	bare soil site 1	PowerSoil Pro	soil	bare soil	high
+12201.soil.bare.J.2.pro.H	12201.soil.bare.J.3.pro.H	0.2791145190202212	bare soil site 1	PowerSoil Pro	bare soil site 1	PowerSoil Pro	soil	bare soil	high
+12201.stool.mouse.J.1.pro.H	12201.stool.mouse.J.2.pro.H	0.28248154705424067	mouse.feces.J	PowerSoil Pro	mouse.feces.J	PowerSoil Pro	stool	mouse feces	high
+12201.stool.mouse.J.1.pro.H	12201.stool.mouse.J.3.pro.H	0.13204987759814701	mouse.feces.J	PowerSoil Pro	mouse.feces.J	PowerSoil Pro	stool	mouse feces	high
+12201.soil.rhizosphere.H.3.pro.H	12201.soil.rhizosphere.H.1.pro.H	0.7362508517508793	rhizosphere soil site 2	PowerSoil Pro	rhizosphere soil site 2	PowerSoil Pro	soil	rhizosphere soil	high
+12201.soil.rhizosphere.H.3.pro.H	12201.soil.rhizosphere.H.2.pro.H	0.7318896486174163	rhizosphere soil site 2	PowerSoil Pro	rhizosphere soil site 2	PowerSoil Pro	soil	rhizosphere soil	high
+12201.food.kimchi.1.2.pro.H	12201.food.kimchi.1.1.pro.H	0.35011703020532525	kimchi_container_1	PowerSoil Pro	kimchi_container_1	PowerSoil Pro	food	kimchi	high
+12201.food.kimchi.1.2.pro.H	12201.food.kimchi.1.3.pro.H	1.0376589349899663	kimchi_container_1	PowerSoil Pro	kimchi_container_1	PowerSoil Pro	food	kimchi	high
+12201.soil.rhizosphere.H.1.pro.H	12201.soil.rhizosphere.H.2.pro.H	0.20094719393342253	rhizosphere soil site 2	PowerSoil Pro	rhizosphere soil site 2	PowerSoil Pro	soil	rhizosphere soil	high
+12201.stool.mouse.J.2.pro.H	12201.stool.mouse.J.3.pro.H	0.27570932824217437	mouse.feces.J	PowerSoil Pro	mouse.feces.J	PowerSoil Pro	stool	mouse feces	high
+12201.soil.bare.L.2.pro.H	12201.soil.bare.L.1.pro.H	0.38713981660478075	bare soil site 3	PowerSoil Pro	bare soil site 3	PowerSoil Pro	soil	bare soil	high
+12201.soil.bare.L.2.pro.H	12201.soil.bare.L.3.pro.H	0.6400178104512094	bare soil site 3	PowerSoil Pro	bare soil site 3	PowerSoil Pro	soil	bare soil	high
+12201.soil.bare.L.1.pro.H	12201.soil.bare.L.3.pro.H	0.7108348011454033	bare soil site 3	PowerSoil Pro	bare soil site 3	PowerSoil Pro	soil	bare soil	high
+12201.soil.rhizosphere.G.1.pro.H	12201.soil.rhizosphere.G.3.pro.H	0.4153459623123047	rhizosphere soil site 1	PowerSoil Pro	rhizosphere soil site 1	PowerSoil Pro	soil	rhizosphere soil	high
+12201.soil.bare.J.1.pro.H	12201.soil.bare.J.3.pro.H	0.05833931542614078	bare soil site 1	PowerSoil Pro	bare soil site 1	PowerSoil Pro	soil	bare soil	high
+12201.soil.rhizosphere.I.1.pro.H	12201.soil.rhizosphere.I.2.pro.H	0.13725470490535785	rhizosphere soil site 3	PowerSoil Pro	rhizosphere soil site 3	PowerSoil Pro	soil	rhizosphere soil	high
+12201.food.kimchi.1.1.pro.H	12201.food.kimchi.1.3.pro.H	1.1814746533293294	kimchi_container_1	PowerSoil Pro	kimchi_container_1	PowerSoil Pro	food	kimchi	high
+12201.stool.mouse.K.3.pro.H	12201.stool.mouse.K.1.pro.H	0.08845751389449207	mouse.feces.K	PowerSoil Pro	mouse.feces.K	PowerSoil Pro	stool	mouse feces	high
+12201.oral.human.A.2.pro.H	12201.oral.human.A.1.pro.H	1.2635310407658369	human.saliva.A	PowerSoil Pro	human.saliva.A	PowerSoil Pro	oral	human saliva	high
+12201.soil.bare.K.3.pro.H	12201.soil.bare.K.1.pro.H	0.22996212234876348	bare soil site 2	PowerSoil Pro	bare soil site 2	PowerSoil Pro	soil	bare soil	high
+12201.soil.bare.K.3.pro.H	12201.soil.bare.K.2.pro.H	1.9518999151756524	bare soil site 2	PowerSoil Pro	bare soil site 2	PowerSoil Pro	soil	bare soil	high
+12201.soil.bare.K.1.pro.H	12201.soil.bare.K.2.pro.H	2.0093093817934715	bare soil site 2	PowerSoil Pro	bare soil site 2	PowerSoil Pro	soil	bare soil	high
+12201.soil.rhizosphere.G.1.microbiome.H	12201.soil.rhizosphere.G.3.microbiome.H	0.22441936285489966	rhizosphere soil site 1	MagMAX Microbiome	rhizosphere soil site 1	MagMAX Microbiome	soil	rhizosphere soil	high
+12201.soil.rhizosphere.G.1.microbiome.H	12201.soil.rhizosphere.G.2.microbiome.H	0.5018931036902239	rhizosphere soil site 1	MagMAX Microbiome	rhizosphere soil site 1	MagMAX Microbiome	soil	rhizosphere soil	high
+12201.food.kimchi.1.1.microbiome.H	12201.food.kimchi.1.3.microbiome.H	0.9758801856004081	kimchi_container_1	MagMAX Microbiome	kimchi_container_1	MagMAX Microbiome	food	kimchi	high
+12201.food.kimchi.1.1.microbiome.H	12201.food.kimchi.1.2.microbiome.H	0.6390008438367324	kimchi_container_1	MagMAX Microbiome	kimchi_container_1	MagMAX Microbiome	food	kimchi	high
+12201.stool.mouse.L.2.microbiome.H	12201.stool.mouse.L.3.microbiome.H	0.16471652800165856	mouse.feces.L	MagMAX Microbiome	mouse.feces.L	MagMAX Microbiome	stool	mouse feces	high
+12201.stool.mouse.L.2.microbiome.H	12201.stool.mouse.L.1.microbiome.H	0.15319059596391188	mouse.feces.L	MagMAX Microbiome	mouse.feces.L	MagMAX Microbiome	stool	mouse feces	high
+12201.soil.rhizosphere.G.3.microbiome.H	12201.soil.rhizosphere.G.2.microbiome.H	0.47331532807063775	rhizosphere soil site 1	MagMAX Microbiome	rhizosphere soil site 1	MagMAX Microbiome	soil	rhizosphere soil	high
+12201.stool.mouse.L.3.microbiome.H	12201.stool.mouse.L.1.microbiome.H	0.16110245397267473	mouse.feces.L	MagMAX Microbiome	mouse.feces.L	MagMAX Microbiome	stool	mouse feces	high
+12201.stool.human.J.2.3.microbiome.H	12201.stool.human.J.2.1.microbiome.H	0.7700569339684806	human.feces.J.2	MagMAX Microbiome	human.feces.J.2	MagMAX Microbiome	stool	human feces	high
+12201.tissue.mouse.Q.2.microbiome.H	12201.tissue.mouse.Q.1.microbiome.H	0.38085885200256	mouse.tissue.Q	MagMAX Microbiome	mouse.tissue.Q	MagMAX Microbiome	tissue	mouse jejunum tissue	high
+12201.tissue.mouse.Q.2.microbiome.H	12201.tissue.mouse.Q.3.microbiome.H	0.2805091006722187	mouse.tissue.Q	MagMAX Microbiome	mouse.tissue.Q	MagMAX Microbiome	tissue	mouse jejunum tissue	high
+12201.soil.rhizosphere.H.3.microbiome.H	12201.soil.rhizosphere.H.1.microbiome.H	0.6710723650542537	rhizosphere soil site 2	MagMAX Microbiome	rhizosphere soil site 2	MagMAX Microbiome	soil	rhizosphere soil	high
+12201.soil.rhizosphere.H.3.microbiome.H	12201.soil.rhizosphere.H.2.microbiome.H	0.8598178422381207	rhizosphere soil site 2	MagMAX Microbiome	rhizosphere soil site 2	MagMAX Microbiome	soil	rhizosphere soil	high
+12201.soil.rhizosphere.H.1.microbiome.H	12201.soil.rhizosphere.H.2.microbiome.H	0.23140381005914587	rhizosphere soil site 2	MagMAX Microbiome	rhizosphere soil site 2	MagMAX Microbiome	soil	rhizosphere soil	high
+12201.food.kimchi.2.2.microbiome.H	12201.food.kimchi.2.1.microbiome.H	0.6467670357659265	kimchi_container_2	MagMAX Microbiome	kimchi_container_2	MagMAX Microbiome	food	kimchi	high
+12201.food.kimchi.2.2.microbiome.H	12201.food.kimchi.2.3.microbiome.H	1.2390696683832096	kimchi_container_2	MagMAX Microbiome	kimchi_container_2	MagMAX Microbiome	food	kimchi	high
+12201.soil.bare.L.2.microbiome.H	12201.soil.bare.L.3.microbiome.H	1.3667208161708864	bare soil site 3	MagMAX Microbiome	bare soil site 3	MagMAX Microbiome	soil	bare soil	high
+12201.soil.bare.L.2.microbiome.H	12201.soil.bare.L.1.microbiome.H	0.7349916820281034	bare soil site 3	MagMAX Microbiome	bare soil site 3	MagMAX Microbiome	soil	bare soil	high
+12201.soil.bare.J.3.microbiome.H	12201.soil.bare.J.2.microbiome.H	0.9504637481615131	bare soil site 1	MagMAX Microbiome	bare soil site 1	MagMAX Microbiome	soil	bare soil	high
+12201.soil.bare.J.3.microbiome.H	12201.soil.bare.J.1.microbiome.H	0.8938983048573529	bare soil site 1	MagMAX Microbiome	bare soil site 1	MagMAX Microbiome	soil	bare soil	high
+12201.soil.bare.L.3.microbiome.H	12201.soil.bare.L.1.microbiome.H	1.0261469443393634	bare soil site 3	MagMAX Microbiome	bare soil site 3	MagMAX Microbiome	soil	bare soil	high
+12201.stool.human.A.3.microbiome.H	12201.stool.human.A.1.microbiome.H	0.5091979243150409	human.feces.A	MagMAX Microbiome	human.feces.A	MagMAX Microbiome	stool	human feces	high
+12201.soil.bare.J.2.microbiome.H	12201.soil.bare.J.1.microbiome.H	0.4910983448890055	bare soil site 1	MagMAX Microbiome	bare soil site 1	MagMAX Microbiome	soil	bare soil	high
+12201.soil.rhizosphere.I.2.microbiome.H	12201.soil.rhizosphere.I.1.microbiome.H	0.36648506177328516	rhizosphere soil site 3	MagMAX Microbiome	rhizosphere soil site 3	MagMAX Microbiome	soil	rhizosphere soil	high
+12201.food.kimchi.1.3.microbiome.H	12201.food.kimchi.1.2.microbiome.H	0.4570664385089852	kimchi_container_1	MagMAX Microbiome	kimchi_container_1	MagMAX Microbiome	food	kimchi	high
+12201.oral.human.K.2.microbiome.H	12201.oral.human.K.1.microbiome.H	0.30765661105531483	human.saliva.K	MagMAX Microbiome	human.saliva.K	MagMAX Microbiome	oral	human saliva	high
+12201.oral.human.K.2.microbiome.H	12201.oral.human.K.3.microbiome.H	0.44373338266741785	human.saliva.K	MagMAX Microbiome	human.saliva.K	MagMAX Microbiome	oral	human saliva	high
+12201.tissue.mouse.Q.1.microbiome.H	12201.tissue.mouse.Q.3.microbiome.H	0.5333761772971766	mouse.tissue.Q	MagMAX Microbiome	mouse.tissue.Q	MagMAX Microbiome	tissue	mouse jejunum tissue	high
+12201.food.kimchi.2.1.microbiome.H	12201.food.kimchi.2.3.microbiome.H	0.7756610409107184	kimchi_container_2	MagMAX Microbiome	kimchi_container_2	MagMAX Microbiome	food	kimchi	high
+12201.oral.human.K.1.microbiome.H	12201.oral.human.K.3.microbiome.H	0.39514796000133856	human.saliva.K	MagMAX Microbiome	human.saliva.K	MagMAX Microbiome	oral	human saliva	high
+12201.oral.human.K.2.nucleomag.H	12201.oral.human.K.1.nucleomag.H	0.345791937825625	human.saliva.K	NucleoMag Food	human.saliva.K	NucleoMag Food	oral	human saliva	high
+12201.oral.human.K.2.nucleomag.H	12201.oral.human.K.3.nucleomag.H	0.3820490198150087	human.saliva.K	NucleoMag Food	human.saliva.K	NucleoMag Food	oral	human saliva	high
+12201.tissue.mouse.Q.1.nucleomag.H	12201.tissue.mouse.Q.3.nucleomag.H	0.3301890219858321	mouse.tissue.Q	NucleoMag Food	mouse.tissue.Q	NucleoMag Food	tissue	mouse jejunum tissue	high
+12201.tissue.mouse.Q.1.nucleomag.H	12201.tissue.mouse.Q.2.nucleomag.H	0.6632391490233791	mouse.tissue.Q	NucleoMag Food	mouse.tissue.Q	NucleoMag Food	tissue	mouse jejunum tissue	high
+12201.stool.human.J.2.1.nucleomag.H	12201.stool.human.J.2.2.nucleomag.H	0.8695673372060846	human.feces.J.2	NucleoMag Food	human.feces.J.2	NucleoMag Food	stool	human feces	high
+12201.stool.human.J.2.1.nucleomag.H	12201.stool.human.J.2.3.nucleomag.H	1.124136292879469	human.feces.J.2	NucleoMag Food	human.feces.J.2	NucleoMag Food	stool	human feces	high
+12201.stool.human.J.3.3.nucleomag.H	12201.stool.human.J.3.2.nucleomag.H	0.8551556363543049	human.feces.J.3	NucleoMag Food	human.feces.J.3	NucleoMag Food	stool	human feces	high
+12201.stool.human.J.3.3.nucleomag.H	12201.stool.human.J.3.1.nucleomag.H	0.7720165381347858	human.feces.J.3	NucleoMag Food	human.feces.J.3	NucleoMag Food	stool	human feces	high
+12201.oral.human.K.1.nucleomag.H	12201.oral.human.K.3.nucleomag.H	0.6092735957425329	human.saliva.K	NucleoMag Food	human.saliva.K	NucleoMag Food	oral	human saliva	high
+12201.stool.cat.L.1.nucleomag.H	12201.stool.cat.L.3.nucleomag.H	0.7525539582473064	cat.feces.L	NucleoMag Food	cat.feces.L	NucleoMag Food	stool	cat feces	high
+12201.stool.mouse.L.3.nucleomag.H	12201.stool.mouse.L.2.nucleomag.H	0.05210061495233915	mouse.feces.L	NucleoMag Food	mouse.feces.L	NucleoMag Food	stool	mouse feces	high
+12201.stool.mouse.L.3.nucleomag.H	12201.stool.mouse.L.1.nucleomag.H	0.09976907927077705	mouse.feces.L	NucleoMag Food	mouse.feces.L	NucleoMag Food	stool	mouse feces	high
+12201.stool.human.A.2.nucleomag.H	12201.stool.human.A.3.nucleomag.H	0.26895623261321827	human.feces.A	NucleoMag Food	human.feces.A	NucleoMag Food	stool	human feces	high
+12201.stool.human.A.2.nucleomag.H	12201.stool.human.A.1.nucleomag.H	0.8859010381787329	human.feces.A	NucleoMag Food	human.feces.A	NucleoMag Food	stool	human feces	high
+12201.stool.mouse.M.2.nucleomag.H	12201.stool.mouse.M.3.nucleomag.H	0.1812854584449863	mouse.feces.M	NucleoMag Food	mouse.feces.M	NucleoMag Food	stool	mouse feces	high
+12201.stool.mouse.M.2.nucleomag.H	12201.stool.mouse.M.1.nucleomag.H	0.30557785964704676	mouse.feces.M	NucleoMag Food	mouse.feces.M	NucleoMag Food	stool	mouse feces	high
+12201.stool.human.A.3.nucleomag.H	12201.stool.human.A.1.nucleomag.H	0.8988337019636891	human.feces.A	NucleoMag Food	human.feces.A	NucleoMag Food	stool	human feces	high
+12201.food.kimchi.2.2.nucleomag.H	12201.food.kimchi.2.1.nucleomag.H	0.7097254628967223	kimchi_container_2	NucleoMag Food	kimchi_container_2	NucleoMag Food	food	kimchi	high
+12201.food.kimchi.2.2.nucleomag.H	12201.food.kimchi.2.3.nucleomag.H	0.6421356912866484	kimchi_container_2	NucleoMag Food	kimchi_container_2	NucleoMag Food	food	kimchi	high
+12201.food.kimchi.1.1.nucleomag.H	12201.food.kimchi.1.3.nucleomag.H	0.3134261041056871	kimchi_container_1	NucleoMag Food	kimchi_container_1	NucleoMag Food	food	kimchi	high
+12201.food.kimchi.1.1.nucleomag.H	12201.food.kimchi.1.2.nucleomag.H	0.9435716936617409	kimchi_container_1	NucleoMag Food	kimchi_container_1	NucleoMag Food	food	kimchi	high
+12201.stool.human.J.2.2.nucleomag.H	12201.stool.human.J.2.3.nucleomag.H	1.0210821506063843	human.feces.J.2	NucleoMag Food	human.feces.J.2	NucleoMag Food	stool	human feces	high
+12201.stool.human.J.3.2.nucleomag.H	12201.stool.human.J.3.1.nucleomag.H	1.2166749987608574	human.feces.J.3	NucleoMag Food	human.feces.J.3	NucleoMag Food	stool	human feces	high
+12201.stool.mouse.L.2.nucleomag.H	12201.stool.mouse.L.1.nucleomag.H	0.1380720761151742	mouse.feces.L	NucleoMag Food	mouse.feces.L	NucleoMag Food	stool	mouse feces	high
+12201.tissue.mouse.Q.3.nucleomag.H	12201.tissue.mouse.Q.2.nucleomag.H	0.38572606698137896	mouse.tissue.Q	NucleoMag Food	mouse.tissue.Q	NucleoMag Food	tissue	mouse jejunum tissue	high
+12201.stool.mouse.M.3.nucleomag.H	12201.stool.mouse.M.1.nucleomag.H	0.25294560569946206	mouse.feces.M	NucleoMag Food	mouse.feces.M	NucleoMag Food	stool	mouse feces	high
+12201.food.kimchi.1.3.nucleomag.H	12201.food.kimchi.1.2.nucleomag.H	0.7902160054428862	kimchi_container_1	NucleoMag Food	kimchi_container_1	NucleoMag Food	food	kimchi	high
+12201.food.kimchi.2.1.nucleomag.H	12201.food.kimchi.2.3.nucleomag.H	0.9509111937061203	kimchi_container_2	NucleoMag Food	kimchi_container_2	NucleoMag Food	food	kimchi	high
+12201.food.kimchi.2.2.powersoil.H	12201.food.kimchi.2.1.powersoil.H	0.620686032040758	kimchi_container_2	PowerSoil r2	kimchi_container_2	PowerSoil r2	food	kimchi	high
+12201.food.kimchi.2.2.powersoil.H	12201.food.kimchi.2.3.powersoil.H	1.0809219212519967	kimchi_container_2	PowerSoil r2	kimchi_container_2	PowerSoil r2	food	kimchi	high
+12201.stool.mouse.M.1.powersoil.H	12201.stool.mouse.M.2.powersoil.H	0.24155259075517865	mouse.feces.M	PowerSoil r2	mouse.feces.M	PowerSoil r2	stool	mouse feces	high
+12201.stool.mouse.M.1.powersoil.H	12201.stool.mouse.M.3.powersoil.H	0.3946751824514913	mouse.feces.M	PowerSoil r2	mouse.feces.M	PowerSoil r2	stool	mouse feces	high
+12201.soil.rhizosphere.I.2.powersoil.H	12201.soil.rhizosphere.I.1.powersoil.H	1.0374182569158574	rhizosphere soil site 3	PowerSoil r2	rhizosphere soil site 3	PowerSoil r2	soil	rhizosphere soil	high
+12201.soil.rhizosphere.I.2.powersoil.H	12201.soil.rhizosphere.I.3.powersoil.H	0.3624795805498115	rhizosphere soil site 3	PowerSoil r2	rhizosphere soil site 3	PowerSoil r2	soil	rhizosphere soil	high
+12201.oral.human.K.1.powersoil.H	12201.oral.human.K.3.powersoil.H	0.5746699654250216	human.saliva.K	PowerSoil r2	human.saliva.K	PowerSoil r2	oral	human saliva	high
+12201.oral.human.K.1.powersoil.H	12201.oral.human.K.2.powersoil.H	0.6972401406850689	human.saliva.K	PowerSoil r2	human.saliva.K	PowerSoil r2	oral	human saliva	high
+12201.food.kimchi.1.3.powersoil.H	12201.food.kimchi.1.1.powersoil.H	0.512732320159397	kimchi_container_1	PowerSoil r2	kimchi_container_1	PowerSoil r2	food	kimchi	high
+12201.food.kimchi.1.3.powersoil.H	12201.food.kimchi.1.2.powersoil.H	0.32292644361148043	kimchi_container_1	PowerSoil r2	kimchi_container_1	PowerSoil r2	food	kimchi	high
+12201.soil.bare.L.2.powersoil.H	12201.soil.bare.L.1.powersoil.H	0.6554084189656468	bare soil site 3	PowerSoil r2	bare soil site 3	PowerSoil r2	soil	bare soil	high
+12201.soil.bare.L.2.powersoil.H	12201.soil.bare.L.3.powersoil.H	0.4541724051019757	bare soil site 3	PowerSoil r2	bare soil site 3	PowerSoil r2	soil	bare soil	high
+12201.soil.rhizosphere.H.2.powersoil.H	12201.soil.rhizosphere.H.3.powersoil.H	0.9718861875983889	rhizosphere soil site 2	PowerSoil r2	rhizosphere soil site 2	PowerSoil r2	soil	rhizosphere soil	high
+12201.soil.rhizosphere.H.2.powersoil.H	12201.soil.rhizosphere.H.1.powersoil.H	0.4263348947156951	rhizosphere soil site 2	PowerSoil r2	rhizosphere soil site 2	PowerSoil r2	soil	rhizosphere soil	high
+12201.soil.bare.K.1.powersoil.H	12201.soil.bare.K.3.powersoil.H	0.18623057651194655	bare soil site 2	PowerSoil r2	bare soil site 2	PowerSoil r2	soil	bare soil	high
+12201.soil.bare.K.1.powersoil.H	12201.soil.bare.K.2.powersoil.H	0.4973346392296112	bare soil site 2	PowerSoil r2	bare soil site 2	PowerSoil r2	soil	bare soil	high
+12201.food.kimchi.1.1.powersoil.H	12201.food.kimchi.1.2.powersoil.H	0.4386889596256079	kimchi_container_1	PowerSoil r2	kimchi_container_1	PowerSoil r2	food	kimchi	high
+12201.stool.human.J.3.3.powersoil.H	12201.stool.human.J.3.1.powersoil.H	1.0108443679492491	human.feces.J.3	PowerSoil r2	human.feces.J.3	PowerSoil r2	stool	human feces	high
+12201.oral.human.K.3.powersoil.H	12201.oral.human.K.2.powersoil.H	0.2887943239413372	human.saliva.K	PowerSoil r2	human.saliva.K	PowerSoil r2	oral	human saliva	high
+12201.soil.bare.L.1.powersoil.H	12201.soil.bare.L.3.powersoil.H	0.4848991118896708	bare soil site 3	PowerSoil r2	bare soil site 3	PowerSoil r2	soil	bare soil	high
+12201.stool.mouse.M.2.powersoil.H	12201.stool.mouse.M.3.powersoil.H	0.17064349155380362	mouse.feces.M	PowerSoil r2	mouse.feces.M	PowerSoil r2	stool	mouse feces	high
+12201.soil.bare.K.3.powersoil.H	12201.soil.bare.K.2.powersoil.H	0.6149547460639572	bare soil site 2	PowerSoil r2	bare soil site 2	PowerSoil r2	soil	bare soil	high
+12201.soil.rhizosphere.I.1.powersoil.H	12201.soil.rhizosphere.I.3.powersoil.H	0.8633554151859342	rhizosphere soil site 3	PowerSoil r2	rhizosphere soil site 3	PowerSoil r2	soil	rhizosphere soil	high
+12201.soil.rhizosphere.G.1.powersoil.H	12201.soil.rhizosphere.G.3.powersoil.H	0.5301589622502177	rhizosphere soil site 1	PowerSoil r2	rhizosphere soil site 1	PowerSoil r2	soil	rhizosphere soil	high
+12201.soil.rhizosphere.G.1.powersoil.H	12201.soil.rhizosphere.G.2.powersoil.H	0.6584925435292976	rhizosphere soil site 1	PowerSoil r2	rhizosphere soil site 1	PowerSoil r2	soil	rhizosphere soil	high
+12201.soil.bare.J.3.powersoil.H	12201.soil.bare.J.2.powersoil.H	0.2775114468902024	bare soil site 1	PowerSoil r2	bare soil site 1	PowerSoil r2	soil	bare soil	high
+12201.soil.bare.J.3.powersoil.H	12201.soil.bare.J.1.powersoil.H	0.24082135032101976	bare soil site 1	PowerSoil r2	bare soil site 1	PowerSoil r2	soil	bare soil	high
+12201.soil.bare.J.2.powersoil.H	12201.soil.bare.J.1.powersoil.H	0.19110036682258236	bare soil site 1	PowerSoil r2	bare soil site 1	PowerSoil r2	soil	bare soil	high
+12201.stool.human.A.2.powersoil.H	12201.stool.human.A.1.powersoil.H	0.8292925142804646	human.feces.A	PowerSoil r2	human.feces.A	PowerSoil r2	stool	human feces	high
+12201.tissue.mouse.Q.1.powersoil.H	12201.tissue.mouse.Q.3.powersoil.H	0.5658335622429219	mouse.tissue.Q	PowerSoil r2	mouse.tissue.Q	PowerSoil r2	tissue	mouse jejunum tissue	high
+12201.soil.rhizosphere.H.3.powersoil.H	12201.soil.rhizosphere.H.1.powersoil.H	0.7759883707788409	rhizosphere soil site 2	PowerSoil r2	rhizosphere soil site 2	PowerSoil r2	soil	rhizosphere soil	high
+12201.stool.mouse.L.1.powersoil.H	12201.stool.mouse.L.2.powersoil.H	0.2733318850005274	mouse.feces.L	PowerSoil r2	mouse.feces.L	PowerSoil r2	stool	mouse feces	high
+12201.stool.mouse.L.1.powersoil.H	12201.stool.mouse.L.3.powersoil.H	0.24348551880307762	mouse.feces.L	PowerSoil r2	mouse.feces.L	PowerSoil r2	stool	mouse feces	high
+12201.stool.mouse.L.2.powersoil.H	12201.stool.mouse.L.3.powersoil.H	0.2164202072450238	mouse.feces.L	PowerSoil r2	mouse.feces.L	PowerSoil r2	stool	mouse feces	high
+12201.soil.rhizosphere.G.3.powersoil.H	12201.soil.rhizosphere.G.2.powersoil.H	0.8064062042417222	rhizosphere soil site 1	PowerSoil r2	rhizosphere soil site 1	PowerSoil r2	soil	rhizosphere soil	high
+12201.food.kimchi.2.1.powersoil.H	12201.food.kimchi.2.3.powersoil.H	0.4740711083966791	kimchi_container_2	PowerSoil r2	kimchi_container_2	PowerSoil r2	food	kimchi	high
+12201.soil.bare.J.1.zymoMA.H	12201.soil.bare.J.2.zymoMA.H	0.13563414708400792	bare soil site 1	Zymo MagBead	bare soil site 1	Zymo MagBead	soil	bare soil	high
+12201.soil.bare.J.1.zymoMA.H	12201.soil.bare.J.3.zymoMA.H	0.33292026626651433	bare soil site 1	Zymo MagBead	bare soil site 1	Zymo MagBead	soil	bare soil	high
+12201.food.kimchi.2.3.zymoMA.H	12201.food.kimchi.2.1.zymoMA.H	0.31090715012085923	kimchi_container_2	Zymo MagBead	kimchi_container_2	Zymo MagBead	food	kimchi	high
+12201.soil.bare.J.2.zymoMA.H	12201.soil.bare.J.3.zymoMA.H	0.3238399853595436	bare soil site 1	Zymo MagBead	bare soil site 1	Zymo MagBead	soil	bare soil	high
+12201.stool.mouse.L.3.zymoMA.H	12201.stool.mouse.L.1.zymoMA.H	0.13869866363788838	mouse.feces.L	Zymo MagBead	mouse.feces.L	Zymo MagBead	stool	mouse feces	high
+12201.stool.mouse.L.3.zymoMA.H	12201.stool.mouse.L.2.zymoMA.H	0.2170743926194626	mouse.feces.L	Zymo MagBead	mouse.feces.L	Zymo MagBead	stool	mouse feces	high
+12201.oral.human.K.2.zymoMA.H	12201.oral.human.K.1.zymoMA.H	0.48434323369850957	human.saliva.K	Zymo MagBead	human.saliva.K	Zymo MagBead	oral	human saliva	high
+12201.oral.human.K.2.zymoMA.H	12201.oral.human.K.3.zymoMA.H	0.9676595131631985	human.saliva.K	Zymo MagBead	human.saliva.K	Zymo MagBead	oral	human saliva	high
+12201.soil.rhizosphere.G.1.zymoMA.H	12201.soil.rhizosphere.G.3.zymoMA.H	0.29213385696487526	rhizosphere soil site 1	Zymo MagBead	rhizosphere soil site 1	Zymo MagBead	soil	rhizosphere soil	high
+12201.soil.rhizosphere.G.1.zymoMA.H	12201.soil.rhizosphere.G.2.zymoMA.H	0.25323839997090214	rhizosphere soil site 1	Zymo MagBead	rhizosphere soil site 1	Zymo MagBead	soil	rhizosphere soil	high
+12201.food.kimchi.1.1.zymoMA.H	12201.food.kimchi.1.3.zymoMA.H	0.8197190152651141	kimchi_container_1	Zymo MagBead	kimchi_container_1	Zymo MagBead	food	kimchi	high
+12201.food.kimchi.1.1.zymoMA.H	12201.food.kimchi.1.2.zymoMA.H	0.713155923870389	kimchi_container_1	Zymo MagBead	kimchi_container_1	Zymo MagBead	food	kimchi	high
+12201.stool.human.J.2.1.zymoMA.H	12201.stool.human.J.2.3.zymoMA.H	0.6139910598229151	human.feces.J.2	Zymo MagBead	human.feces.J.2	Zymo MagBead	stool	human feces	high
+12201.soil.bare.L.1.zymoMA.H	12201.soil.bare.L.3.zymoMA.H	1.3758950319903562	bare soil site 3	Zymo MagBead	bare soil site 3	Zymo MagBead	soil	bare soil	high
+12201.soil.bare.L.1.zymoMA.H	12201.soil.bare.L.2.zymoMA.H	1.2233554523955885	bare soil site 3	Zymo MagBead	bare soil site 3	Zymo MagBead	soil	bare soil	high
+12201.stool.mouse.M.1.zymoMA.H	12201.stool.mouse.M.3.zymoMA.H	0.21004838014872051	mouse.feces.M	Zymo MagBead	mouse.feces.M	Zymo MagBead	stool	mouse feces	high
+12201.stool.mouse.M.1.zymoMA.H	12201.stool.mouse.M.2.zymoMA.H	0.07235109500763502	mouse.feces.M	Zymo MagBead	mouse.feces.M	Zymo MagBead	stool	mouse feces	high
+12201.food.kimchi.1.3.zymoMA.H	12201.food.kimchi.1.2.zymoMA.H	1.3678889629984863	kimchi_container_1	Zymo MagBead	kimchi_container_1	Zymo MagBead	food	kimchi	high
+12201.stool.human.J.3.2.zymoMA.H	12201.stool.human.J.3.3.zymoMA.H	0.24209689872200246	human.feces.J.3	Zymo MagBead	human.feces.J.3	Zymo MagBead	stool	human feces	high
+12201.stool.human.J.3.2.zymoMA.H	12201.stool.human.J.3.1.zymoMA.H	0.557652765565079	human.feces.J.3	Zymo MagBead	human.feces.J.3	Zymo MagBead	stool	human feces	high
+12201.stool.mouse.M.3.zymoMA.H	12201.stool.mouse.M.2.zymoMA.H	0.23919220055059026	mouse.feces.M	Zymo MagBead	mouse.feces.M	Zymo MagBead	stool	mouse feces	high
+12201.stool.mouse.L.1.zymoMA.H	12201.stool.mouse.L.2.zymoMA.H	0.1891813761107854	mouse.feces.L	Zymo MagBead	mouse.feces.L	Zymo MagBead	stool	mouse feces	high
+12201.soil.rhizosphere.I.2.zymoMA.H	12201.soil.rhizosphere.I.1.zymoMA.H	0.44265097887828325	rhizosphere soil site 3	Zymo MagBead	rhizosphere soil site 3	Zymo MagBead	soil	rhizosphere soil	high
+12201.soil.rhizosphere.I.2.zymoMA.H	12201.soil.rhizosphere.I.3.zymoMA.H	0.4884989908883624	rhizosphere soil site 3	Zymo MagBead	rhizosphere soil site 3	Zymo MagBead	soil	rhizosphere soil	high
+12201.soil.bare.K.2.zymoMA.H	12201.soil.bare.K.3.zymoMA.H	0.7780755857047026	bare soil site 2	Zymo MagBead	bare soil site 2	Zymo MagBead	soil	bare soil	high
+12201.soil.bare.K.2.zymoMA.H	12201.soil.bare.K.1.zymoMA.H	0.9461733176795788	bare soil site 2	Zymo MagBead	bare soil site 2	Zymo MagBead	soil	bare soil	high
+12201.stool.human.J.3.3.zymoMA.H	12201.stool.human.J.3.1.zymoMA.H	0.4008877294619463	human.feces.J.3	Zymo MagBead	human.feces.J.3	Zymo MagBead	stool	human feces	high
+12201.oral.human.K.1.zymoMA.H	12201.oral.human.K.3.zymoMA.H	1.0434419760621736	human.saliva.K	Zymo MagBead	human.saliva.K	Zymo MagBead	oral	human saliva	high
+12201.soil.rhizosphere.G.3.zymoMA.H	12201.soil.rhizosphere.G.2.zymoMA.H	0.3331301302359039	rhizosphere soil site 1	Zymo MagBead	rhizosphere soil site 1	Zymo MagBead	soil	rhizosphere soil	high
+12201.soil.bare.L.3.zymoMA.H	12201.soil.bare.L.2.zymoMA.H	0.7745267063601089	bare soil site 3	Zymo MagBead	bare soil site 3	Zymo MagBead	soil	bare soil	high
+12201.soil.rhizosphere.I.1.zymoMA.H	12201.soil.rhizosphere.I.3.zymoMA.H	0.4177224281788186	rhizosphere soil site 3	Zymo MagBead	rhizosphere soil site 3	Zymo MagBead	soil	rhizosphere soil	high
+12201.soil.bare.K.3.zymoMA.H	12201.soil.bare.K.1.zymoMA.H	0.5760989978980348	bare soil site 2	Zymo MagBead	bare soil site 2	Zymo MagBead	soil	bare soil	high
+12201.tissue.mouse.Q.1.zymoMA.H	12201.tissue.mouse.Q.3.zymoMA.H	0.5802174548026265	mouse.tissue.Q	Zymo MagBead	mouse.tissue.Q	Zymo MagBead	tissue	mouse jejunum tissue	high
+12201.tissue.mouse.Q.1.zymoMA.H	12201.tissue.mouse.Q.2.zymoMA.H	0.3750004300796126	mouse.tissue.Q	Zymo MagBead	mouse.tissue.Q	Zymo MagBead	tissue	mouse jejunum tissue	high
+12201.soil.rhizosphere.H.1.zymoMA.H	12201.soil.rhizosphere.H.2.zymoMA.H	0.266294681942956	rhizosphere soil site 2	Zymo MagBead	rhizosphere soil site 2	Zymo MagBead	soil	rhizosphere soil	high
+12201.soil.rhizosphere.H.1.zymoMA.H	12201.soil.rhizosphere.H.3.zymoMA.H	0.7016962912847942	rhizosphere soil site 2	Zymo MagBead	rhizosphere soil site 2	Zymo MagBead	soil	rhizosphere soil	high
+12201.tissue.mouse.Q.3.zymoMA.H	12201.tissue.mouse.Q.2.zymoMA.H	0.31160797728089035	mouse.tissue.Q	Zymo MagBead	mouse.tissue.Q	Zymo MagBead	tissue	mouse jejunum tissue	high
+12201.soil.rhizosphere.H.2.zymoMA.H	12201.soil.rhizosphere.H.3.zymoMA.H	0.43996215358033014	rhizosphere soil site 2	Zymo MagBead	rhizosphere soil site 2	Zymo MagBead	soil	rhizosphere soil	high

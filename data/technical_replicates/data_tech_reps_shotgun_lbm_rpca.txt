@@ -1,0 +1,292 @@
+sample1	sample2	value	sample1_type	sample1_extraction_kit_round	sample2_type	sample2_extraction_kit_round	sample_type	sample_type_2	biomass_plate
+12201.be.f.A.2.norgen.L	12201.be.f.A.3.norgen.L	0.3499295007757375	floor_site_1	Norgen	floor_site_1	Norgen	built environment	floor	low
+12201.be.f.B.1.norgen.L	12201.be.f.B.2.norgen.L	0.3668722664248627	floor_site_2	Norgen	floor_site_2	Norgen	built environment	floor	low
+12201.be.f.B.1.norgen.L	12201.be.f.B.3.norgen.L	0.24572012682801955	floor_site_2	Norgen	floor_site_2	Norgen	built environment	floor	low
+12201.be.f.B.1.pro.L	12201.be.f.B.2.pro.L	0.38340104010379683	floor_site_2	PowerSoil Pro	floor_site_2	PowerSoil Pro	built environment	floor	low
+12201.be.f.B.1.pro.L	12201.be.f.B.3.pro.L	0.4058319090468589	floor_site_2	PowerSoil Pro	floor_site_2	PowerSoil Pro	built environment	floor	low
+12201.be.f.B.1.standard.L	12201.be.f.B.2.standard.L	0.3613159118620851	floor_site_2	PowerSoil r1	floor_site_2	PowerSoil r1	built environment	floor	low
+12201.be.f.B.1.standard.L	12201.be.f.B.3.standard.L	0.2544488950304713	floor_site_2	PowerSoil r1	floor_site_2	PowerSoil r1	built environment	floor	low
+12201.be.f.B.2.norgen.L	12201.be.f.B.3.norgen.L	0.4269165123504946	floor_site_2	Norgen	floor_site_2	Norgen	built environment	floor	low
+12201.be.f.B.2.pro.L	12201.be.f.B.3.pro.L	0.2602812390305091	floor_site_2	PowerSoil Pro	floor_site_2	PowerSoil Pro	built environment	floor	low
+12201.be.f.B.2.standard.L	12201.be.f.B.3.standard.L	0.2042625659099458	floor_site_2	PowerSoil r1	floor_site_2	PowerSoil r1	built environment	floor	low
+12201.be.k.A.1.1.pro.L	12201.be.k.A.1.2.pro.L	0.3163696061788816	keyboard_A1	PowerSoil Pro	keyboard_A1	PowerSoil Pro	built environment	keyboard	low
+12201.be.k.A.2.1.norgen.L	12201.be.k.A.2.2.norgen.L	0.5840892835696625	keyboard_A2	Norgen	keyboard_A2	Norgen	built environment	keyboard	low
+12201.be.k.A.2.1.norgen.L	12201.be.k.A.2.3.norgen.L	0.4968765460548995	keyboard_A2	Norgen	keyboard_A2	Norgen	built environment	keyboard	low
+12201.be.k.A.2.1.pro.L	12201.be.k.A.2.2.pro.L	0.46458437397481167	keyboard_A2	PowerSoil Pro	keyboard_A2	PowerSoil Pro	built environment	keyboard	low
+12201.be.k.A.2.1.pro.L	12201.be.k.A.2.3.pro.L	0.4633472328473709	keyboard_A2	PowerSoil Pro	keyboard_A2	PowerSoil Pro	built environment	keyboard	low
+12201.be.k.A.2.2.pro.L	12201.be.k.A.2.3.pro.L	0.11887397491472625	keyboard_A2	PowerSoil Pro	keyboard_A2	PowerSoil Pro	built environment	keyboard	low
+12201.be.k.A.2.2.norgen.L	12201.be.k.A.2.3.norgen.L	0.13643017403984137	keyboard_A2	Norgen	keyboard_A2	Norgen	built environment	keyboard	low
+12201.hbm.W.1.norgen.L	12201.hbm.W.2.norgen.L	0.33741149164951734	human.milk.W	Norgen	human.milk.W	Norgen	milk	human milk	low
+12201.hbm.W.1.norgen.L	12201.hbm.W.3.norgen.L	0.19077117301151691	human.milk.W	Norgen	human.milk.W	Norgen	milk	human milk	low
+12201.hbm.W.2.norgen.L	12201.hbm.W.3.norgen.L	0.23930497115155228	human.milk.W	Norgen	human.milk.W	Norgen	milk	human milk	low
+12201.hbm.W.3.standard.L	12201.hbm.W.2.standard.L	0.27961235708908816	human.milk.W	PowerSoil r1	human.milk.W	PowerSoil r1	milk	human milk	low
+12201.s.la.A.1.norgen.L	12201.s.la.A.3.norgen.L	0.5431072852557012	human.armpit.A	Norgen	human.armpit.A	Norgen	skin	human armpit	low
+12201.s.la.A.1.norgen.L	12201.s.la.A.2.norgen.L	0.20004061452002544	human.armpit.A	Norgen	human.armpit.A	Norgen	skin	human armpit	low
+12201.s.la.A.1.standard.L	12201.s.la.A.2.standard.L	0.6629470912483415	human.armpit.A	PowerSoil r1	human.armpit.A	PowerSoil r1	skin	human armpit	low
+12201.s.la.A.1.standard.L	12201.s.la.A.3.standard.L	0.6428539736213172	human.armpit.A	PowerSoil r1	human.armpit.A	PowerSoil r1	skin	human armpit	low
+12201.s.la.A.1.pro.L	12201.s.la.A.2.pro.L	0.4743039889346528	human.armpit.A	PowerSoil Pro	human.armpit.A	PowerSoil Pro	skin	human armpit	low
+12201.s.la.A.1.pro.L	12201.s.la.A.3.pro.L	0.5422080772186011	human.armpit.A	PowerSoil Pro	human.armpit.A	PowerSoil Pro	skin	human armpit	low
+12201.s.la.A.2.pro.L	12201.s.la.A.3.pro.L	0.755190647367123	human.armpit.A	PowerSoil Pro	human.armpit.A	PowerSoil Pro	skin	human armpit	low
+12201.s.la.A.3.norgen.L	12201.s.la.A.2.norgen.L	0.4031869785823622	human.armpit.A	Norgen	human.armpit.A	Norgen	skin	human armpit	low
+12201.s.la.A.2.standard.L	12201.s.la.A.3.standard.L	0.1802484055310442	human.armpit.A	PowerSoil r1	human.armpit.A	PowerSoil r1	skin	human armpit	low
+12201.s.la.B.2.norgen.L	12201.s.la.B.3.norgen.L	0.16242650248697482	human.armpit.B	Norgen	human.armpit.B	Norgen	skin	human armpit	low
+12201.s.la.C.1.pro.L	12201.s.la.C.2.pro.L	0.8107409978020224	human.armpit.C	PowerSoil Pro	human.armpit.C	PowerSoil Pro	skin	human armpit	low
+12201.s.la.C.1.pro.L	12201.s.la.C.3.pro.L	0.6573456890981134	human.armpit.C	PowerSoil Pro	human.armpit.C	PowerSoil Pro	skin	human armpit	low
+12201.s.la.C.1.standard.L	12201.s.la.C.2.standard.L	0.446995587018049	human.armpit.C	PowerSoil r1	human.armpit.C	PowerSoil r1	skin	human armpit	low
+12201.s.la.C.1.standard.L	12201.s.la.C.3.standard.L	0.7197981780674936	human.armpit.C	PowerSoil r1	human.armpit.C	PowerSoil r1	skin	human armpit	low
+12201.s.la.C.2.norgen.L	12201.s.la.C.1.norgen.L	0.372709331863763	human.armpit.C	Norgen	human.armpit.C	Norgen	skin	human armpit	low
+12201.s.la.C.2.norgen.L	12201.s.la.C.3.norgen.L	0.3894097037887682	human.armpit.C	Norgen	human.armpit.C	Norgen	skin	human armpit	low
+12201.s.la.C.2.pro.L	12201.s.la.C.3.pro.L	0.5860686434837684	human.armpit.C	PowerSoil Pro	human.armpit.C	PowerSoil Pro	skin	human armpit	low
+12201.s.la.C.1.norgen.L	12201.s.la.C.3.norgen.L	0.6075612383569442	human.armpit.C	Norgen	human.armpit.C	Norgen	skin	human armpit	low
+12201.s.la.C.2.standard.L	12201.s.la.C.3.standard.L	0.5925088448191683	human.armpit.C	PowerSoil r1	human.armpit.C	PowerSoil r1	skin	human armpit	low
+12201.s.lf.A.1.norgen.L	12201.s.lf.A.2.norgen.L	0.2754538026896331	human.foot.A	Norgen	human.foot.A	Norgen	skin	human foot	low
+12201.s.lf.A.1.norgen.L	12201.s.lf.A.3.norgen.L	1.4813819000391117	human.foot.A	Norgen	human.foot.A	Norgen	skin	human foot	low
+12201.s.lf.A.1.standard.L	12201.s.lf.A.2.standard.L	0.8930729068093041	human.foot.A	PowerSoil r1	human.foot.A	PowerSoil r1	skin	human foot	low
+12201.s.lf.A.1.standard.L	12201.s.lf.A.3.standard.L	1.7818354445130473	human.foot.A	PowerSoil r1	human.foot.A	PowerSoil r1	skin	human foot	low
+12201.s.lf.A.2.norgen.L	12201.s.lf.A.3.norgen.L	1.3482187129149577	human.foot.A	Norgen	human.foot.A	Norgen	skin	human foot	low
+12201.s.lf.A.1.pro.L	12201.s.lf.A.3.pro.L	2.2483257102510716	human.foot.A	PowerSoil Pro	human.foot.A	PowerSoil Pro	skin	human foot	low
+12201.s.lf.A.1.pro.L	12201.s.lf.A.2.pro.L	0.7610610098346263	human.foot.A	PowerSoil Pro	human.foot.A	PowerSoil Pro	skin	human foot	low
+12201.s.lf.A.2.standard.L	12201.s.lf.A.3.standard.L	1.4273087785615435	human.foot.A	PowerSoil r1	human.foot.A	PowerSoil r1	skin	human foot	low
+12201.s.lf.A.3.pro.L	12201.s.lf.A.2.pro.L	1.5108495935117965	human.foot.A	PowerSoil Pro	human.foot.A	PowerSoil Pro	skin	human foot	low
+12201.s.lf.B.1.norgen.L	12201.s.lf.B.3.norgen.L	0.36358360390709793	human.foot.B	Norgen	human.foot.B	Norgen	skin	human foot	low
+12201.s.lf.B.1.norgen.L	12201.s.lf.B.2.norgen.L	0.24011606162642932	human.foot.B	Norgen	human.foot.B	Norgen	skin	human foot	low
+12201.s.lf.B.2.standard.L	12201.s.lf.B.3.standard.L	0.2727855982641045	human.foot.B	PowerSoil r1	human.foot.B	PowerSoil r1	skin	human foot	low
+12201.s.lf.B.2.standard.L	12201.s.lf.B.1.standard.L	0.3910938362583084	human.foot.B	PowerSoil r1	human.foot.B	PowerSoil r1	skin	human foot	low
+12201.s.lf.B.3.norgen.L	12201.s.lf.B.2.norgen.L	0.37479724332470543	human.foot.B	Norgen	human.foot.B	Norgen	skin	human foot	low
+12201.s.lf.B.3.standard.L	12201.s.lf.B.1.standard.L	0.2728082316705349	human.foot.B	PowerSoil r1	human.foot.B	PowerSoil r1	skin	human foot	low
+12201.s.lf.C.1.norgen.L	12201.s.lf.C.2.norgen.L	0.2169398833504082	human.foot.C	Norgen	human.foot.C	Norgen	skin	human foot	low
+12201.s.lf.C.1.norgen.L	12201.s.lf.C.3.norgen.L	0.4966556819728538	human.foot.C	Norgen	human.foot.C	Norgen	skin	human foot	low
+12201.s.lf.C.1.pro.L	12201.s.lf.C.2.pro.L	0.38921825977759156	human.foot.C	PowerSoil Pro	human.foot.C	PowerSoil Pro	skin	human foot	low
+12201.s.lf.C.1.pro.L	12201.s.lf.C.3.pro.L	0.3419078271953526	human.foot.C	PowerSoil Pro	human.foot.C	PowerSoil Pro	skin	human foot	low
+12201.s.lf.C.1.standard.L	12201.s.lf.C.2.standard.L	0.12032588641993756	human.foot.C	PowerSoil r1	human.foot.C	PowerSoil r1	skin	human foot	low
+12201.s.lf.C.1.standard.L	12201.s.lf.C.3.standard.L	0.23894816906422256	human.foot.C	PowerSoil r1	human.foot.C	PowerSoil r1	skin	human foot	low
+12201.s.lf.C.2.norgen.L	12201.s.lf.C.3.norgen.L	0.5213227321520172	human.foot.C	Norgen	human.foot.C	Norgen	skin	human foot	low
+12201.s.lf.C.2.pro.L	12201.s.lf.C.3.pro.L	0.18608297546485153	human.foot.C	PowerSoil Pro	human.foot.C	PowerSoil Pro	skin	human foot	low
+12201.s.lf.C.2.standard.L	12201.s.lf.C.3.standard.L	0.30726036273152113	human.foot.C	PowerSoil r1	human.foot.C	PowerSoil r1	skin	human foot	low
+12201.uriF.D.1.pro.L	12201.uriF.D.2.pro.L	0.2966882988087486	human.urine.D	PowerSoil Pro	human.urine.D	PowerSoil Pro	urine	human female urine	low
+12201.uriF.D.1.pro.L	12201.uriF.D.3.pro.L	0.20359061397713268	human.urine.D	PowerSoil Pro	human.urine.D	PowerSoil Pro	urine	human female urine	low
+12201.uriF.D.1.standard.L	12201.uriF.D.2.standard.L	0.7322131365169982	human.urine.D	PowerSoil r1	human.urine.D	PowerSoil r1	urine	human female urine	low
+12201.uriF.D.1.standard.L	12201.uriF.D.3.standard.L	0.8621261783771237	human.urine.D	PowerSoil r1	human.urine.D	PowerSoil r1	urine	human female urine	low
+12201.uriF.D.2.pro.L	12201.uriF.D.3.pro.L	0.3849711735020517	human.urine.D	PowerSoil Pro	human.urine.D	PowerSoil Pro	urine	human female urine	low
+12201.uriF.D.2.standard.L	12201.uriF.D.3.standard.L	0.17003782905329307	human.urine.D	PowerSoil r1	human.urine.D	PowerSoil r1	urine	human female urine	low
+12201.uriF.E.1.pro.L	12201.uriF.E.2.pro.L	0.7668032900980783	human.urine.E	PowerSoil Pro	human.urine.E	PowerSoil Pro	urine	human female urine	low
+12201.uriF.E.1.pro.L	12201.uriF.E.3.pro.L	1.0198941333472644	human.urine.E	PowerSoil Pro	human.urine.E	PowerSoil Pro	urine	human female urine	low
+12201.uriF.E.2.pro.L	12201.uriF.E.3.pro.L	1.1087311984465897	human.urine.E	PowerSoil Pro	human.urine.E	PowerSoil Pro	urine	human female urine	low
+12201.uriF.E.2.standard.L	12201.uriF.E.3.standard.L	0.6485930547938935	human.urine.E	PowerSoil r1	human.urine.E	PowerSoil r1	urine	human female urine	low
+12201.uriF.E.2.norgen.L	12201.uriF.E.3.norgen.L	0.3858335459200934	human.urine.E	Norgen	human.urine.E	Norgen	urine	human female urine	low
+12201.uriF.F.1.norgen.L	12201.uriF.F.2.norgen.L	0.20728416145992826	human.urine.F	Norgen	human.urine.F	Norgen	urine	human female urine	low
+12201.uriF.F.1.norgen.L	12201.uriF.F.3.norgen.L	0.49342767088875855	human.urine.F	Norgen	human.urine.F	Norgen	urine	human female urine	low
+12201.uriF.F.1.pro.L	12201.uriF.F.2.pro.L	0.25756352371858277	human.urine.F	PowerSoil Pro	human.urine.F	PowerSoil Pro	urine	human female urine	low
+12201.uriF.F.1.pro.L	12201.uriF.F.3.pro.L	0.5124990957708874	human.urine.F	PowerSoil Pro	human.urine.F	PowerSoil Pro	urine	human female urine	low
+12201.uriF.F.1.standard.L	12201.uriF.F.2.standard.L	0.5569519156954766	human.urine.F	PowerSoil r1	human.urine.F	PowerSoil r1	urine	human female urine	low
+12201.uriF.F.1.standard.L	12201.uriF.F.3.standard.L	0.28940550789249614	human.urine.F	PowerSoil r1	human.urine.F	PowerSoil r1	urine	human female urine	low
+12201.uriF.F.2.norgen.L	12201.uriF.F.3.norgen.L	0.5479455877022351	human.urine.F	Norgen	human.urine.F	Norgen	urine	human female urine	low
+12201.uriF.F.2.pro.L	12201.uriF.F.3.pro.L	0.45540046283292435	human.urine.F	PowerSoil Pro	human.urine.F	PowerSoil Pro	urine	human female urine	low
+12201.uriF.F.2.standard.L	12201.uriF.F.3.standard.L	0.2683400804491092	human.urine.F	PowerSoil r1	human.urine.F	PowerSoil r1	urine	human female urine	low
+12201.uriM.B.1.norgen.L	12201.uriM.B.2.norgen.L	0.44881932796533963	human.urine.B	Norgen	human.urine.B	Norgen	urine	human male urine	low
+12201.uriM.B.1.norgen.L	12201.uriM.B.3.norgen.L	0.3310319640810944	human.urine.B	Norgen	human.urine.B	Norgen	urine	human male urine	low
+12201.uriM.B.2.norgen.L	12201.uriM.B.3.norgen.L	0.29572730814595327	human.urine.B	Norgen	human.urine.B	Norgen	urine	human male urine	low
+12201.wat.F.B.2.norgen.L	12201.wat.F.B.3.norgen.L	0.049100091277097815	freshwater site 2	Norgen	freshwater site 2	Norgen	water	freshwater	low
+12201.built.floor.A.1.microbiome.L	12201.built.floor.A.2.microbiome.L	0.4173221398741022	floor_site_1	MagMAX Microbiome	floor_site_1	MagMAX Microbiome	built environment	floor	low
+12201.built.floor.A.1.microbiome.L	12201.built.floor.A.3.microbiome.L	0.2209534078229449	floor_site_1	MagMAX Microbiome	floor_site_1	MagMAX Microbiome	built environment	floor	low
+12201.built.floor.A.1.nucleomag.L	12201.built.floor.A.2.nucleomag.L	0.2621158703539928	floor_site_1	NucleoMag Food	floor_site_1	NucleoMag Food	built environment	floor	low
+12201.built.floor.A.1.nucleomag.L	12201.built.floor.A.3.nucleomag.L	0.609145122587363	floor_site_1	NucleoMag Food	floor_site_1	NucleoMag Food	built environment	floor	low
+12201.built.floor.A.1.powersoil.L	12201.built.floor.A.3.powersoil.L	0.522869317226234	floor_site_1	PowerSoil r2	floor_site_1	PowerSoil r2	built environment	floor	low
+12201.built.floor.A.1.zymoMA.L	12201.built.floor.A.2.zymoMA.L	0.9756588595885648	floor_site_1	Zymo MagBead	floor_site_1	Zymo MagBead	built environment	floor	low
+12201.built.floor.A.1.zymoMA.L	12201.built.floor.A.3.zymoMA.L	0.6862875355537231	floor_site_1	Zymo MagBead	floor_site_1	Zymo MagBead	built environment	floor	low
+12201.built.floor.A.2.nucleomag.L	12201.built.floor.A.3.nucleomag.L	0.5113371096553152	floor_site_1	NucleoMag Food	floor_site_1	NucleoMag Food	built environment	floor	low
+12201.built.floor.A.2.microbiome.L	12201.built.floor.A.3.microbiome.L	0.23201814510658836	floor_site_1	MagMAX Microbiome	floor_site_1	MagMAX Microbiome	built environment	floor	low
+12201.built.floor.A.2.zymoMA.L	12201.built.floor.A.3.zymoMA.L	0.9119349963942567	floor_site_1	Zymo MagBead	floor_site_1	Zymo MagBead	built environment	floor	low
+12201.built.floor.B.1.nucleomag.L	12201.built.floor.B.2.nucleomag.L	0.10032600811124602	floor_site_2	NucleoMag Food	floor_site_2	NucleoMag Food	built environment	floor	low
+12201.built.floor.B.1.nucleomag.L	12201.built.floor.B.3.nucleomag.L	0.570861807591156	floor_site_2	NucleoMag Food	floor_site_2	NucleoMag Food	built environment	floor	low
+12201.built.floor.B.1.powersoil.L	12201.built.floor.B.2.powersoil.L	0.8206506208951749	floor_site_2	PowerSoil r2	floor_site_2	PowerSoil r2	built environment	floor	low
+12201.built.floor.B.1.powersoil.L	12201.built.floor.B.3.powersoil.L	0.9439923013019639	floor_site_2	PowerSoil r2	floor_site_2	PowerSoil r2	built environment	floor	low
+12201.built.floor.B.1.zymoMA.L	12201.built.floor.B.2.zymoMA.L	0.1936761660144792	floor_site_2	Zymo MagBead	floor_site_2	Zymo MagBead	built environment	floor	low
+12201.built.floor.B.1.zymoMA.L	12201.built.floor.B.3.zymoMA.L	0.7693242166412976	floor_site_2	Zymo MagBead	floor_site_2	Zymo MagBead	built environment	floor	low
+12201.built.floor.B.1.microbiome.L	12201.built.floor.B.2.microbiome.L	0.8179695762713187	floor_site_2	MagMAX Microbiome	floor_site_2	MagMAX Microbiome	built environment	floor	low
+12201.built.floor.B.1.microbiome.L	12201.built.floor.B.3.microbiome.L	1.1488322308624743	floor_site_2	MagMAX Microbiome	floor_site_2	MagMAX Microbiome	built environment	floor	low
+12201.built.floor.B.2.nucleomag.L	12201.built.floor.B.3.nucleomag.L	0.48260010066942427	floor_site_2	NucleoMag Food	floor_site_2	NucleoMag Food	built environment	floor	low
+12201.built.floor.B.2.zymoMA.L	12201.built.floor.B.3.zymoMA.L	0.7243749843533508	floor_site_2	Zymo MagBead	floor_site_2	Zymo MagBead	built environment	floor	low
+12201.built.floor.B.2.powersoil.L	12201.built.floor.B.3.powersoil.L	0.16160608196642465	floor_site_2	PowerSoil r2	floor_site_2	PowerSoil r2	built environment	floor	low
+12201.built.floor.B.2.microbiome.L	12201.built.floor.B.3.microbiome.L	0.47050012060472457	floor_site_2	MagMAX Microbiome	floor_site_2	MagMAX Microbiome	built environment	floor	low
+12201.built.keyboard.A.1.1.microbiome.L	12201.built.keyboard.A.1.2.microbiome.L	0.2329801797342781	keyboard_A3	MagMAX Microbiome	keyboard_A3	MagMAX Microbiome	built environment	keyboard	low
+12201.built.keyboard.A.1.1.microbiome.L	12201.built.keyboard.A.1.3.microbiome.L	0.7397877145736921	keyboard_A3	MagMAX Microbiome	keyboard_A3	MagMAX Microbiome	built environment	keyboard	low
+12201.built.keyboard.A.1.1.powersoil.L	12201.built.keyboard.A.1.2.powersoil.L	0.16081694615670125	keyboard_A3	PowerSoil r2	keyboard_A3	PowerSoil r2	built environment	keyboard	low
+12201.built.keyboard.A.1.1.powersoil.L	12201.built.keyboard.A.1.3.powersoil.L	0.1578646563905287	keyboard_A3	PowerSoil r2	keyboard_A3	PowerSoil r2	built environment	keyboard	low
+12201.built.keyboard.A.1.1.nucleomag.L	12201.built.keyboard.A.1.2.nucleomag.L	0.15623423879237808	keyboard_A3	NucleoMag Food	keyboard_A3	NucleoMag Food	built environment	keyboard	low
+12201.built.keyboard.A.1.1.nucleomag.L	12201.built.keyboard.A.1.3.nucleomag.L	0.42876786037257913	keyboard_A3	NucleoMag Food	keyboard_A3	NucleoMag Food	built environment	keyboard	low
+12201.built.keyboard.A.1.1.zymoMA.L	12201.built.keyboard.A.1.2.zymoMA.L	0.1958596951590049	keyboard_A3	Zymo MagBead	keyboard_A3	Zymo MagBead	built environment	keyboard	low
+12201.built.keyboard.A.1.1.zymoMA.L	12201.built.keyboard.A.1.3.zymoMA.L	0.5182178182089883	keyboard_A3	Zymo MagBead	keyboard_A3	Zymo MagBead	built environment	keyboard	low
+12201.built.keyboard.A.1.2.powersoil.L	12201.built.keyboard.A.1.3.powersoil.L	0.2375213525407159	keyboard_A3	PowerSoil r2	keyboard_A3	PowerSoil r2	built environment	keyboard	low
+12201.built.keyboard.A.1.2.microbiome.L	12201.built.keyboard.A.1.3.microbiome.L	0.694086252588423	keyboard_A3	MagMAX Microbiome	keyboard_A3	MagMAX Microbiome	built environment	keyboard	low
+12201.built.keyboard.A.1.2.zymoMA.L	12201.built.keyboard.A.1.3.zymoMA.L	0.3247415218686524	keyboard_A3	Zymo MagBead	keyboard_A3	Zymo MagBead	built environment	keyboard	low
+12201.built.keyboard.A.1.2.nucleomag.L	12201.built.keyboard.A.1.3.nucleomag.L	0.31501551051990584	keyboard_A3	NucleoMag Food	keyboard_A3	NucleoMag Food	built environment	keyboard	low
+12201.built.keyboard.A.2.1.microbiome.L	12201.built.keyboard.A.2.2.microbiome.L	0.3679816859570997	keyboard_M	MagMAX Microbiome	keyboard_M	MagMAX Microbiome	built environment	keyboard	low
+12201.built.keyboard.A.2.1.microbiome.L	12201.built.keyboard.A.2.3.microbiome.L	0.6182716771176383	keyboard_M	MagMAX Microbiome	keyboard_M	MagMAX Microbiome	built environment	keyboard	low
+12201.built.keyboard.A.2.1.nucleomag.L	12201.built.keyboard.A.2.2.nucleomag.L	0.70949921432105	keyboard_M	NucleoMag Food	keyboard_M	NucleoMag Food	built environment	keyboard	low
+12201.built.keyboard.A.2.1.nucleomag.L	12201.built.keyboard.A.2.3.nucleomag.L	0.6790846192340236	keyboard_M	NucleoMag Food	keyboard_M	NucleoMag Food	built environment	keyboard	low
+12201.built.keyboard.A.2.1.powersoil.L	12201.built.keyboard.A.2.2.powersoil.L	0.41014484327155093	keyboard_M	PowerSoil r2	keyboard_M	PowerSoil r2	built environment	keyboard	low
+12201.built.keyboard.A.2.1.powersoil.L	12201.built.keyboard.A.2.3.powersoil.L	0.16167132911717305	keyboard_M	PowerSoil r2	keyboard_M	PowerSoil r2	built environment	keyboard	low
+12201.built.keyboard.A.2.1.zymoMA.L	12201.built.keyboard.A.2.2.zymoMA.L	0.8777963189483162	keyboard_M	Zymo MagBead	keyboard_M	Zymo MagBead	built environment	keyboard	low
+12201.built.keyboard.A.2.1.zymoMA.L	12201.built.keyboard.A.2.3.zymoMA.L	0.6133194677620925	keyboard_M	Zymo MagBead	keyboard_M	Zymo MagBead	built environment	keyboard	low
+12201.built.keyboard.A.2.2.microbiome.L	12201.built.keyboard.A.2.3.microbiome.L	0.7533855465985553	keyboard_M	MagMAX Microbiome	keyboard_M	MagMAX Microbiome	built environment	keyboard	low
+12201.built.keyboard.A.2.2.nucleomag.L	12201.built.keyboard.A.2.3.nucleomag.L	0.4071434114322868	keyboard_M	NucleoMag Food	keyboard_M	NucleoMag Food	built environment	keyboard	low
+12201.built.keyboard.A.2.2.powersoil.L	12201.built.keyboard.A.2.3.powersoil.L	0.4039495276614255	keyboard_M	PowerSoil r2	keyboard_M	PowerSoil r2	built environment	keyboard	low
+12201.built.keyboard.A.2.2.zymoMA.L	12201.built.keyboard.A.2.3.zymoMA.L	0.8485644925493425	keyboard_M	Zymo MagBead	keyboard_M	Zymo MagBead	built environment	keyboard	low
+12201.human.milk.Y.1.microbiome.L	12201.human.milk.Y.2.microbiome.L	0.13557757078248014	human.milk.Y	MagMAX Microbiome	human.milk.Y	MagMAX Microbiome	milk	human milk	low
+12201.human.milk.Y.1.microbiome.L	12201.human.milk.Y.3.microbiome.L	1.2256058156996223	human.milk.Y	MagMAX Microbiome	human.milk.Y	MagMAX Microbiome	milk	human milk	low
+12201.human.milk.Y.1.powersoil.L	12201.human.milk.Y.3.powersoil.L	0.26839909322184957	human.milk.Y	PowerSoil r2	human.milk.Y	PowerSoil r2	milk	human milk	low
+12201.human.milk.Y.1.zymoMA.L	12201.human.milk.Y.2.zymoMA.L	0.36290385706513834	human.milk.Y	Zymo MagBead	human.milk.Y	Zymo MagBead	milk	human milk	low
+12201.human.milk.Y.1.zymoMA.L	12201.human.milk.Y.3.zymoMA.L	0.34301407864704664	human.milk.Y	Zymo MagBead	human.milk.Y	Zymo MagBead	milk	human milk	low
+12201.human.milk.Y.2.microbiome.L	12201.human.milk.Y.3.microbiome.L	1.1730593080878549	human.milk.Y	MagMAX Microbiome	human.milk.Y	MagMAX Microbiome	milk	human milk	low
+12201.human.milk.Y.2.zymoMA.L	12201.human.milk.Y.3.zymoMA.L	0.3615044151550886	human.milk.Y	Zymo MagBead	human.milk.Y	Zymo MagBead	milk	human milk	low
+12201.human.milk.Z.1.microbiome.L	12201.human.milk.Z.2.microbiome.L	0.5218445481081071	human.milk.Z	MagMAX Microbiome	human.milk.Z	MagMAX Microbiome	milk	human milk	low
+12201.human.milk.Z.1.microbiome.L	12201.human.milk.Z.3.microbiome.L	0.794466727497654	human.milk.Z	MagMAX Microbiome	human.milk.Z	MagMAX Microbiome	milk	human milk	low
+12201.human.milk.Z.1.powersoil.L	12201.human.milk.Z.2.powersoil.L	0.393950546801922	human.milk.Z	PowerSoil r2	human.milk.Z	PowerSoil r2	milk	human milk	low
+12201.human.milk.Z.1.powersoil.L	12201.human.milk.Z.3.powersoil.L	0.4982797964716776	human.milk.Z	PowerSoil r2	human.milk.Z	PowerSoil r2	milk	human milk	low
+12201.human.milk.Z.1.zymoMA.L	12201.human.milk.Z.2.zymoMA.L	0.15202208657620112	human.milk.Z	Zymo MagBead	human.milk.Z	Zymo MagBead	milk	human milk	low
+12201.human.milk.Z.1.zymoMA.L	12201.human.milk.Z.3.zymoMA.L	0.16746447123309077	human.milk.Z	Zymo MagBead	human.milk.Z	Zymo MagBead	milk	human milk	low
+12201.human.milk.Z.2.microbiome.L	12201.human.milk.Z.3.microbiome.L	1.0227159780924964	human.milk.Z	MagMAX Microbiome	human.milk.Z	MagMAX Microbiome	milk	human milk	low
+12201.human.milk.Z.2.powersoil.L	12201.human.milk.Z.3.powersoil.L	0.4699969149685126	human.milk.Z	PowerSoil r2	human.milk.Z	PowerSoil r2	milk	human milk	low
+12201.human.milk.Z.2.nucleomag.L	12201.human.milk.Z.3.nucleomag.L	0.43470735613005784	human.milk.Z	NucleoMag Food	human.milk.Z	NucleoMag Food	milk	human milk	low
+12201.human.milk.Z.2.zymoMA.L	12201.human.milk.Z.3.zymoMA.L	0.2821528511593729	human.milk.Z	Zymo MagBead	human.milk.Z	Zymo MagBead	milk	human milk	low
+12201.skin.armpit.A.1.nucleomag.L	12201.skin.armpit.A.2.nucleomag.L	0.23243906170349166	human.armpit.A	NucleoMag Food	human.armpit.A	NucleoMag Food	skin	human armpit	low
+12201.skin.armpit.A.1.nucleomag.L	12201.skin.armpit.A.3.nucleomag.L	1.1033679750548222	human.armpit.A	NucleoMag Food	human.armpit.A	NucleoMag Food	skin	human armpit	low
+12201.skin.armpit.A.1.microbiome.L	12201.skin.armpit.A.2.microbiome.L	0.7517937059429787	human.armpit.A	MagMAX Microbiome	human.armpit.A	MagMAX Microbiome	skin	human armpit	low
+12201.skin.armpit.A.1.microbiome.L	12201.skin.armpit.A.3.microbiome.L	1.0586856576677088	human.armpit.A	MagMAX Microbiome	human.armpit.A	MagMAX Microbiome	skin	human armpit	low
+12201.skin.armpit.A.1.powersoil.L	12201.skin.armpit.A.2.powersoil.L	0.5379570376084866	human.armpit.A	PowerSoil r2	human.armpit.A	PowerSoil r2	skin	human armpit	low
+12201.skin.armpit.A.1.powersoil.L	12201.skin.armpit.A.3.powersoil.L	1.4923937532088825	human.armpit.A	PowerSoil r2	human.armpit.A	PowerSoil r2	skin	human armpit	low
+12201.skin.armpit.A.1.zymoMA.L	12201.skin.armpit.A.2.zymoMA.L	0.8046529511201701	human.armpit.A	Zymo MagBead	human.armpit.A	Zymo MagBead	skin	human armpit	low
+12201.skin.armpit.A.1.zymoMA.L	12201.skin.armpit.A.3.zymoMA.L	1.28164908013731	human.armpit.A	Zymo MagBead	human.armpit.A	Zymo MagBead	skin	human armpit	low
+12201.skin.armpit.A.2.nucleomag.L	12201.skin.armpit.A.3.nucleomag.L	0.9015493561231048	human.armpit.A	NucleoMag Food	human.armpit.A	NucleoMag Food	skin	human armpit	low
+12201.skin.armpit.A.2.microbiome.L	12201.skin.armpit.A.3.microbiome.L	0.3452407867292541	human.armpit.A	MagMAX Microbiome	human.armpit.A	MagMAX Microbiome	skin	human armpit	low
+12201.skin.armpit.A.2.powersoil.L	12201.skin.armpit.A.3.powersoil.L	1.2480258475120363	human.armpit.A	PowerSoil r2	human.armpit.A	PowerSoil r2	skin	human armpit	low
+12201.skin.armpit.A.2.zymoMA.L	12201.skin.armpit.A.3.zymoMA.L	0.4926867294723999	human.armpit.A	Zymo MagBead	human.armpit.A	Zymo MagBead	skin	human armpit	low
+12201.skin.armpit.B.1.nucleomag.L	12201.skin.armpit.B.2.nucleomag.L	0.6205634729728827	human.armpit.B	NucleoMag Food	human.armpit.B	NucleoMag Food	skin	human armpit	low
+12201.skin.armpit.B.1.nucleomag.L	12201.skin.armpit.B.3.nucleomag.L	1.270896397392647	human.armpit.B	NucleoMag Food	human.armpit.B	NucleoMag Food	skin	human armpit	low
+12201.skin.armpit.B.1.microbiome.L	12201.skin.armpit.B.2.microbiome.L	0.6251313054614904	human.armpit.B	MagMAX Microbiome	human.armpit.B	MagMAX Microbiome	skin	human armpit	low
+12201.skin.armpit.B.1.microbiome.L	12201.skin.armpit.B.3.microbiome.L	1.2038016592817913	human.armpit.B	MagMAX Microbiome	human.armpit.B	MagMAX Microbiome	skin	human armpit	low
+12201.skin.armpit.B.1.powersoil.L	12201.skin.armpit.B.2.powersoil.L	0.41225724865928254	human.armpit.B	PowerSoil r2	human.armpit.B	PowerSoil r2	skin	human armpit	low
+12201.skin.armpit.B.1.powersoil.L	12201.skin.armpit.B.3.powersoil.L	0.8398947626394496	human.armpit.B	PowerSoil r2	human.armpit.B	PowerSoil r2	skin	human armpit	low
+12201.skin.armpit.B.2.nucleomag.L	12201.skin.armpit.B.3.nucleomag.L	0.7642480086326833	human.armpit.B	NucleoMag Food	human.armpit.B	NucleoMag Food	skin	human armpit	low
+12201.skin.armpit.B.2.microbiome.L	12201.skin.armpit.B.3.microbiome.L	0.8145549739067995	human.armpit.B	MagMAX Microbiome	human.armpit.B	MagMAX Microbiome	skin	human armpit	low
+12201.skin.armpit.B.2.powersoil.L	12201.skin.armpit.B.3.powersoil.L	0.5850696636976837	human.armpit.B	PowerSoil r2	human.armpit.B	PowerSoil r2	skin	human armpit	low
+12201.skin.armpit.B.2.zymoMA.L	12201.skin.armpit.B.3.zymoMA.L	0.7350462681946236	human.armpit.B	Zymo MagBead	human.armpit.B	Zymo MagBead	skin	human armpit	low
+12201.skin.armpit.C.1.zymoMA.L	12201.skin.armpit.C.2.zymoMA.L	0.17257599028586804	human.armpit.K	Zymo MagBead	human.armpit.K	Zymo MagBead	skin	human armpit	low
+12201.skin.armpit.C.1.zymoMA.L	12201.skin.armpit.C.3.zymoMA.L	0.11711717066873333	human.armpit.K	Zymo MagBead	human.armpit.K	Zymo MagBead	skin	human armpit	low
+12201.skin.armpit.C.1.powersoil.L	12201.skin.armpit.C.2.powersoil.L	0.24883349768458052	human.armpit.K	PowerSoil r2	human.armpit.K	PowerSoil r2	skin	human armpit	low
+12201.skin.armpit.C.1.powersoil.L	12201.skin.armpit.C.3.powersoil.L	0.5968794282399674	human.armpit.K	PowerSoil r2	human.armpit.K	PowerSoil r2	skin	human armpit	low
+12201.skin.armpit.C.1.microbiome.L	12201.skin.armpit.C.2.microbiome.L	0.7979341360022121	human.armpit.K	MagMAX Microbiome	human.armpit.K	MagMAX Microbiome	skin	human armpit	low
+12201.skin.armpit.C.1.microbiome.L	12201.skin.armpit.C.3.microbiome.L	1.1649797278215621	human.armpit.K	MagMAX Microbiome	human.armpit.K	MagMAX Microbiome	skin	human armpit	low
+12201.skin.armpit.C.2.powersoil.L	12201.skin.armpit.C.3.powersoil.L	0.823826673097707	human.armpit.K	PowerSoil r2	human.armpit.K	PowerSoil r2	skin	human armpit	low
+12201.skin.armpit.C.2.microbiome.L	12201.skin.armpit.C.3.microbiome.L	0.9932213640271239	human.armpit.K	MagMAX Microbiome	human.armpit.K	MagMAX Microbiome	skin	human armpit	low
+12201.skin.armpit.C.1.nucleomag.L	12201.skin.armpit.C.3.nucleomag.L	0.810754964652283	human.armpit.K	NucleoMag Food	human.armpit.K	NucleoMag Food	skin	human armpit	low
+12201.skin.armpit.C.1.nucleomag.L	12201.skin.armpit.C.2.nucleomag.L	0.45016433052270544	human.armpit.K	NucleoMag Food	human.armpit.K	NucleoMag Food	skin	human armpit	low
+12201.skin.armpit.C.2.zymoMA.L	12201.skin.armpit.C.3.zymoMA.L	0.2873493275300063	human.armpit.K	Zymo MagBead	human.armpit.K	Zymo MagBead	skin	human armpit	low
+12201.skin.armpit.C.3.nucleomag.L	12201.skin.armpit.C.2.nucleomag.L	1.2198205913121538	human.armpit.K	NucleoMag Food	human.armpit.K	NucleoMag Food	skin	human armpit	low
+12201.skin.foot.A.1.powersoil.L	12201.skin.foot.A.2.powersoil.L	1.443338578767721	human.foot.A	PowerSoil r2	human.foot.A	PowerSoil r2	skin	human foot	low
+12201.skin.foot.A.1.powersoil.L	12201.skin.foot.A.3.powersoil.L	0.4580842163856268	human.foot.A	PowerSoil r2	human.foot.A	PowerSoil r2	skin	human foot	low
+12201.skin.foot.A.1.zymoMA.L	12201.skin.foot.A.2.zymoMA.L	0.325259115309492	human.foot.A	Zymo MagBead	human.foot.A	Zymo MagBead	skin	human foot	low
+12201.skin.foot.A.1.zymoMA.L	12201.skin.foot.A.3.zymoMA.L	1.104831093039517	human.foot.A	Zymo MagBead	human.foot.A	Zymo MagBead	skin	human foot	low
+12201.skin.foot.A.2.microbiome.L	12201.skin.foot.A.3.microbiome.L	1.100721606417745	human.foot.A	MagMAX Microbiome	human.foot.A	MagMAX Microbiome	skin	human foot	low
+12201.skin.foot.A.2.microbiome.L	12201.skin.foot.A.1.microbiome.L	1.8243629095226286	human.foot.A	MagMAX Microbiome	human.foot.A	MagMAX Microbiome	skin	human foot	low
+12201.skin.foot.A.2.nucleomag.L	12201.skin.foot.A.1.nucleomag.L	1.9584952135177618	human.foot.A	NucleoMag Food	human.foot.A	NucleoMag Food	skin	human foot	low
+12201.skin.foot.A.2.nucleomag.L	12201.skin.foot.A.3.nucleomag.L	1.1611829651677514	human.foot.A	NucleoMag Food	human.foot.A	NucleoMag Food	skin	human foot	low
+12201.skin.foot.A.2.powersoil.L	12201.skin.foot.A.3.powersoil.L	1.6744580069552533	human.foot.A	PowerSoil r2	human.foot.A	PowerSoil r2	skin	human foot	low
+12201.skin.foot.A.2.zymoMA.L	12201.skin.foot.A.3.zymoMA.L	1.3338410216501446	human.foot.A	Zymo MagBead	human.foot.A	Zymo MagBead	skin	human foot	low
+12201.skin.foot.A.1.nucleomag.L	12201.skin.foot.A.3.nucleomag.L	0.8344153895513019	human.foot.A	NucleoMag Food	human.foot.A	NucleoMag Food	skin	human foot	low
+12201.skin.foot.A.3.microbiome.L	12201.skin.foot.A.1.microbiome.L	1.3367028186773227	human.foot.A	MagMAX Microbiome	human.foot.A	MagMAX Microbiome	skin	human foot	low
+12201.skin.foot.B.1.microbiome.L	12201.skin.foot.B.2.microbiome.L	0.3095917286316216	human.foot.B	MagMAX Microbiome	human.foot.B	MagMAX Microbiome	skin	human foot	low
+12201.skin.foot.B.1.microbiome.L	12201.skin.foot.B.3.microbiome.L	0.681533182107953	human.foot.B	MagMAX Microbiome	human.foot.B	MagMAX Microbiome	skin	human foot	low
+12201.skin.foot.B.1.powersoil.L	12201.skin.foot.B.2.powersoil.L	0.8114300828489996	human.foot.B	PowerSoil r2	human.foot.B	PowerSoil r2	skin	human foot	low
+12201.skin.foot.B.1.powersoil.L	12201.skin.foot.B.3.powersoil.L	0.8734109961767473	human.foot.B	PowerSoil r2	human.foot.B	PowerSoil r2	skin	human foot	low
+12201.skin.foot.B.1.nucleomag.L	12201.skin.foot.B.2.nucleomag.L	0.5351137677820836	human.foot.B	NucleoMag Food	human.foot.B	NucleoMag Food	skin	human foot	low
+12201.skin.foot.B.1.nucleomag.L	12201.skin.foot.B.3.nucleomag.L	0.7917433657193996	human.foot.B	NucleoMag Food	human.foot.B	NucleoMag Food	skin	human foot	low
+12201.skin.foot.B.2.nucleomag.L	12201.skin.foot.B.3.nucleomag.L	0.3056013868100046	human.foot.B	NucleoMag Food	human.foot.B	NucleoMag Food	skin	human foot	low
+12201.skin.foot.B.1.zymoMA.L	12201.skin.foot.B.2.zymoMA.L	0.6930357103736092	human.foot.B	Zymo MagBead	human.foot.B	Zymo MagBead	skin	human foot	low
+12201.skin.foot.B.1.zymoMA.L	12201.skin.foot.B.3.zymoMA.L	0.7598272606019993	human.foot.B	Zymo MagBead	human.foot.B	Zymo MagBead	skin	human foot	low
+12201.skin.foot.B.2.microbiome.L	12201.skin.foot.B.3.microbiome.L	0.9001041867101999	human.foot.B	MagMAX Microbiome	human.foot.B	MagMAX Microbiome	skin	human foot	low
+12201.skin.foot.B.2.powersoil.L	12201.skin.foot.B.3.powersoil.L	0.31830807087845847	human.foot.B	PowerSoil r2	human.foot.B	PowerSoil r2	skin	human foot	low
+12201.skin.foot.B.2.zymoMA.L	12201.skin.foot.B.3.zymoMA.L	0.7496738910189912	human.foot.B	Zymo MagBead	human.foot.B	Zymo MagBead	skin	human foot	low
+12201.skin.foot.C.1.microbiome.L	12201.skin.foot.C.2.microbiome.L	0.4275382065642359	human.foot.K	MagMAX Microbiome	human.foot.K	MagMAX Microbiome	skin	human foot	low
+12201.skin.foot.C.1.microbiome.L	12201.skin.foot.C.3.microbiome.L	0.5620779330679235	human.foot.K	MagMAX Microbiome	human.foot.K	MagMAX Microbiome	skin	human foot	low
+12201.skin.foot.C.1.nucleomag.L	12201.skin.foot.C.2.nucleomag.L	0.25557742772272707	human.foot.K	NucleoMag Food	human.foot.K	NucleoMag Food	skin	human foot	low
+12201.skin.foot.C.1.nucleomag.L	12201.skin.foot.C.3.nucleomag.L	0.5298161277582515	human.foot.K	NucleoMag Food	human.foot.K	NucleoMag Food	skin	human foot	low
+12201.skin.foot.C.1.powersoil.L	12201.skin.foot.C.2.powersoil.L	0.426294777967615	human.foot.K	PowerSoil r2	human.foot.K	PowerSoil r2	skin	human foot	low
+12201.skin.foot.C.1.powersoil.L	12201.skin.foot.C.3.powersoil.L	0.5299383803310229	human.foot.K	PowerSoil r2	human.foot.K	PowerSoil r2	skin	human foot	low
+12201.skin.foot.C.1.zymoMA.L	12201.skin.foot.C.2.zymoMA.L	0.5804091747680626	human.foot.K	Zymo MagBead	human.foot.K	Zymo MagBead	skin	human foot	low
+12201.skin.foot.C.1.zymoMA.L	12201.skin.foot.C.3.zymoMA.L	0.3896361897538934	human.foot.K	Zymo MagBead	human.foot.K	Zymo MagBead	skin	human foot	low
+12201.skin.foot.C.2.microbiome.L	12201.skin.foot.C.3.microbiome.L	0.9700142552670017	human.foot.K	MagMAX Microbiome	human.foot.K	MagMAX Microbiome	skin	human foot	low
+12201.skin.foot.C.2.nucleomag.L	12201.skin.foot.C.3.nucleomag.L	0.6279010027097722	human.foot.K	NucleoMag Food	human.foot.K	NucleoMag Food	skin	human foot	low
+12201.skin.foot.C.2.powersoil.L	12201.skin.foot.C.3.powersoil.L	0.634171270020243	human.foot.K	PowerSoil r2	human.foot.K	PowerSoil r2	skin	human foot	low
+12201.skin.foot.C.2.zymoMA.L	12201.skin.foot.C.3.zymoMA.L	0.5785851892646935	human.foot.K	Zymo MagBead	human.foot.K	Zymo MagBead	skin	human foot	low
+12201.urine.female.D.1.microbiome.L	12201.urine.female.D.2.microbiome.L	1.0047839380041768	human.urine.D	MagMAX Microbiome	human.urine.D	MagMAX Microbiome	urine	human female urine	low
+12201.urine.female.D.1.microbiome.L	12201.urine.female.D.3.microbiome.L	0.43094558455116166	human.urine.D	MagMAX Microbiome	human.urine.D	MagMAX Microbiome	urine	human female urine	low
+12201.urine.female.D.1.nucleomag.L	12201.urine.female.D.2.nucleomag.L	0.92572024734103	human.urine.D	NucleoMag Food	human.urine.D	NucleoMag Food	urine	human female urine	low
+12201.urine.female.D.1.nucleomag.L	12201.urine.female.D.3.nucleomag.L	0.3653749809352471	human.urine.D	NucleoMag Food	human.urine.D	NucleoMag Food	urine	human female urine	low
+12201.urine.female.D.1.powersoil.L	12201.urine.female.D.2.powersoil.L	0.1810111811367338	human.urine.D	PowerSoil r2	human.urine.D	PowerSoil r2	urine	human female urine	low
+12201.urine.female.D.1.powersoil.L	12201.urine.female.D.3.powersoil.L	0.41856651823695196	human.urine.D	PowerSoil r2	human.urine.D	PowerSoil r2	urine	human female urine	low
+12201.urine.female.D.1.zymoMA.L	12201.urine.female.D.2.zymoMA.L	0.615148760222527	human.urine.D	Zymo MagBead	human.urine.D	Zymo MagBead	urine	human female urine	low
+12201.urine.female.D.1.zymoMA.L	12201.urine.female.D.3.zymoMA.L	0.4524176256132055	human.urine.D	Zymo MagBead	human.urine.D	Zymo MagBead	urine	human female urine	low
+12201.urine.female.D.2.microbiome.L	12201.urine.female.D.3.microbiome.L	0.5888647178254227	human.urine.D	MagMAX Microbiome	human.urine.D	MagMAX Microbiome	urine	human female urine	low
+12201.urine.female.D.2.powersoil.L	12201.urine.female.D.3.powersoil.L	0.3019894636371348	human.urine.D	PowerSoil r2	human.urine.D	PowerSoil r2	urine	human female urine	low
+12201.urine.female.D.2.nucleomag.L	12201.urine.female.D.3.nucleomag.L	1.1758893855921722	human.urine.D	NucleoMag Food	human.urine.D	NucleoMag Food	urine	human female urine	low
+12201.urine.female.D.2.zymoMA.L	12201.urine.female.D.3.zymoMA.L	0.3498221987530286	human.urine.D	Zymo MagBead	human.urine.D	Zymo MagBead	urine	human female urine	low
+12201.urine.female.E.1.microbiome.L	12201.urine.female.E.2.microbiome.L	0.4679484858160991	human.urine.E	MagMAX Microbiome	human.urine.E	MagMAX Microbiome	urine	human female urine	low
+12201.urine.female.E.1.microbiome.L	12201.urine.female.E.3.microbiome.L	0.7391538654407516	human.urine.E	MagMAX Microbiome	human.urine.E	MagMAX Microbiome	urine	human female urine	low
+12201.urine.female.E.1.nucleomag.L	12201.urine.female.E.2.nucleomag.L	0.8484670455822539	human.urine.E	NucleoMag Food	human.urine.E	NucleoMag Food	urine	human female urine	low
+12201.urine.female.E.1.nucleomag.L	12201.urine.female.E.3.nucleomag.L	0.27194695025976573	human.urine.E	NucleoMag Food	human.urine.E	NucleoMag Food	urine	human female urine	low
+12201.urine.female.E.1.powersoil.L	12201.urine.female.E.2.powersoil.L	0.3527126083664082	human.urine.E	PowerSoil r2	human.urine.E	PowerSoil r2	urine	human female urine	low
+12201.urine.female.E.1.powersoil.L	12201.urine.female.E.3.powersoil.L	0.06690487782365126	human.urine.E	PowerSoil r2	human.urine.E	PowerSoil r2	urine	human female urine	low
+12201.urine.female.E.2.microbiome.L	12201.urine.female.E.3.microbiome.L	0.4464774681303651	human.urine.E	MagMAX Microbiome	human.urine.E	MagMAX Microbiome	urine	human female urine	low
+12201.urine.female.E.2.nucleomag.L	12201.urine.female.E.3.nucleomag.L	0.9577040934948399	human.urine.E	NucleoMag Food	human.urine.E	NucleoMag Food	urine	human female urine	low
+12201.urine.female.E.1.zymoMA.L	12201.urine.female.E.2.zymoMA.L	0.4493503147483785	human.urine.E	Zymo MagBead	human.urine.E	Zymo MagBead	urine	human female urine	low
+12201.urine.female.E.1.zymoMA.L	12201.urine.female.E.3.zymoMA.L	0.8725143393982461	human.urine.E	Zymo MagBead	human.urine.E	Zymo MagBead	urine	human female urine	low
+12201.urine.female.E.2.powersoil.L	12201.urine.female.E.3.powersoil.L	0.3654237486915274	human.urine.E	PowerSoil r2	human.urine.E	PowerSoil r2	urine	human female urine	low
+12201.urine.female.E.2.zymoMA.L	12201.urine.female.E.3.zymoMA.L	0.49070694434748446	human.urine.E	Zymo MagBead	human.urine.E	Zymo MagBead	urine	human female urine	low
+12201.urine.female.F.1.microbiome.L	12201.urine.female.F.2.microbiome.L	0.5425008274659725	human.urine.F	MagMAX Microbiome	human.urine.F	MagMAX Microbiome	urine	human female urine	low
+12201.urine.female.F.1.microbiome.L	12201.urine.female.F.3.microbiome.L	0.38969076490134297	human.urine.F	MagMAX Microbiome	human.urine.F	MagMAX Microbiome	urine	human female urine	low
+12201.urine.female.F.1.nucleomag.L	12201.urine.female.F.2.nucleomag.L	0.004413208183451562	human.urine.F	NucleoMag Food	human.urine.F	NucleoMag Food	urine	human female urine	low
+12201.urine.female.F.1.nucleomag.L	12201.urine.female.F.3.nucleomag.L	1.0686376532623574	human.urine.F	NucleoMag Food	human.urine.F	NucleoMag Food	urine	human female urine	low
+12201.urine.female.F.1.powersoil.L	12201.urine.female.F.2.powersoil.L	0.2968025821413678	human.urine.F	PowerSoil r2	human.urine.F	PowerSoil r2	urine	human female urine	low
+12201.urine.female.F.1.powersoil.L	12201.urine.female.F.3.powersoil.L	1.194661661468669	human.urine.F	PowerSoil r2	human.urine.F	PowerSoil r2	urine	human female urine	low
+12201.urine.female.F.2.nucleomag.L	12201.urine.female.F.3.nucleomag.L	1.0675081719732837	human.urine.F	NucleoMag Food	human.urine.F	NucleoMag Food	urine	human female urine	low
+12201.urine.female.F.2.zymoMA.L	12201.urine.female.F.3.zymoMA.L	0.5866066816713416	human.urine.F	Zymo MagBead	human.urine.F	Zymo MagBead	urine	human female urine	low
+12201.urine.female.F.2.powersoil.L	12201.urine.female.F.3.powersoil.L	1.2183096293621423	human.urine.F	PowerSoil r2	human.urine.F	PowerSoil r2	urine	human female urine	low
+12201.urine.female.F.2.microbiome.L	12201.urine.female.F.3.microbiome.L	0.5695778971506084	human.urine.F	MagMAX Microbiome	human.urine.F	MagMAX Microbiome	urine	human female urine	low
+12201.urine.male.A.1.powersoil.L	12201.urine.male.A.3.powersoil.L	1.1178315467059705	human.urine.A	PowerSoil r2	human.urine.A	PowerSoil r2	urine	human male urine	low
+12201.urine.male.B.1.powersoil.L	12201.urine.male.B.2.powersoil.L	0.18323604474924815	human.urine.B	PowerSoil r2	human.urine.B	PowerSoil r2	urine	human male urine	low
+12201.urine.male.B.1.powersoil.L	12201.urine.male.B.3.powersoil.L	0.2443279273655605	human.urine.B	PowerSoil r2	human.urine.B	PowerSoil r2	urine	human male urine	low
+12201.urine.male.B.2.nucleomag.L	12201.urine.male.B.3.nucleomag.L	0.3668589447129338	human.urine.B	NucleoMag Food	human.urine.B	NucleoMag Food	urine	human male urine	low
+12201.urine.male.B.2.powersoil.L	12201.urine.male.B.3.powersoil.L	0.17357353589752725	human.urine.B	PowerSoil r2	human.urine.B	PowerSoil r2	urine	human male urine	low
+12201.urine.male.C.1.nucleomag.L	12201.urine.male.C.3.nucleomag.L	0.5557599098619943	human.urine.C	NucleoMag Food	human.urine.C	NucleoMag Food	urine	human male urine	low
+12201.urine.male.C.1.powersoil.L	12201.urine.male.C.2.powersoil.L	0.43156861891614595	human.urine.C	PowerSoil r2	human.urine.C	PowerSoil r2	urine	human male urine	low
+12201.urine.male.C.1.powersoil.L	12201.urine.male.C.3.powersoil.L	0.5898697431245044	human.urine.C	PowerSoil r2	human.urine.C	PowerSoil r2	urine	human male urine	low
+12201.urine.male.C.2.powersoil.L	12201.urine.male.C.3.powersoil.L	0.2806170985001408	human.urine.C	PowerSoil r2	human.urine.C	PowerSoil r2	urine	human male urine	low
+12201.water.fresh.A.1.microbiome.L	12201.water.fresh.A.3.microbiome.L	0.7290835169903663	freshwater site 1	MagMAX Microbiome	freshwater site 1	MagMAX Microbiome	water	freshwater	low
+12201.water.fresh.A.1.microbiome.L	12201.water.fresh.A.2.microbiome.L	1.751063284268521	freshwater site 1	MagMAX Microbiome	freshwater site 1	MagMAX Microbiome	water	freshwater	low
+12201.water.fresh.A.1.nucleomag.L	12201.water.fresh.A.2.nucleomag.L	0.0676094732154204	freshwater site 1	NucleoMag Food	freshwater site 1	NucleoMag Food	water	freshwater	low
+12201.water.fresh.A.1.nucleomag.L	12201.water.fresh.A.3.nucleomag.L	0.12327778999546908	freshwater site 1	NucleoMag Food	freshwater site 1	NucleoMag Food	water	freshwater	low
+12201.water.fresh.A.1.powersoil.L	12201.water.fresh.A.2.powersoil.L	1.0448558406822668	freshwater site 1	PowerSoil r2	freshwater site 1	PowerSoil r2	water	freshwater	low
+12201.water.fresh.A.1.powersoil.L	12201.water.fresh.A.3.powersoil.L	1.1555582848153678	freshwater site 1	PowerSoil r2	freshwater site 1	PowerSoil r2	water	freshwater	low
+12201.water.fresh.A.2.nucleomag.L	12201.water.fresh.A.3.nucleomag.L	0.10264362365896082	freshwater site 1	NucleoMag Food	freshwater site 1	NucleoMag Food	water	freshwater	low
+12201.water.fresh.A.2.powersoil.L	12201.water.fresh.A.3.powersoil.L	1.1942915439747506	freshwater site 1	PowerSoil r2	freshwater site 1	PowerSoil r2	water	freshwater	low
+12201.water.fresh.A.3.microbiome.L	12201.water.fresh.A.2.microbiome.L	1.5760486836178138	freshwater site 1	MagMAX Microbiome	freshwater site 1	MagMAX Microbiome	water	freshwater	low
+12201.water.fresh.B.1.microbiome.L	12201.water.fresh.B.2.microbiome.L	0.29550615873483965	freshwater site 2	MagMAX Microbiome	freshwater site 2	MagMAX Microbiome	water	freshwater	low
+12201.water.fresh.B.1.microbiome.L	12201.water.fresh.B.3.microbiome.L	1.0255565840678982	freshwater site 2	MagMAX Microbiome	freshwater site 2	MagMAX Microbiome	water	freshwater	low
+12201.water.fresh.B.1.nucleomag.L	12201.water.fresh.B.2.nucleomag.L	0.5022201161688946	freshwater site 2	NucleoMag Food	freshwater site 2	NucleoMag Food	water	freshwater	low
+12201.water.fresh.B.1.nucleomag.L	12201.water.fresh.B.3.nucleomag.L	2.631061345337322	freshwater site 2	NucleoMag Food	freshwater site 2	NucleoMag Food	water	freshwater	low
+12201.water.fresh.B.1.powersoil.L	12201.water.fresh.B.2.powersoil.L	0.7955194315647041	freshwater site 2	PowerSoil r2	freshwater site 2	PowerSoil r2	water	freshwater	low
+12201.water.fresh.B.1.powersoil.L	12201.water.fresh.B.3.powersoil.L	1.159698940325076	freshwater site 2	PowerSoil r2	freshwater site 2	PowerSoil r2	water	freshwater	low
+12201.water.fresh.B.2.microbiome.L	12201.water.fresh.B.3.microbiome.L	0.8035964279935065	freshwater site 2	MagMAX Microbiome	freshwater site 2	MagMAX Microbiome	water	freshwater	low
+12201.water.fresh.B.2.nucleomag.L	12201.water.fresh.B.3.nucleomag.L	2.997902624254362	freshwater site 2	NucleoMag Food	freshwater site 2	NucleoMag Food	water	freshwater	low
+12201.water.fresh.B.2.powersoil.L	12201.water.fresh.B.3.powersoil.L	0.4006495674283754	freshwater site 2	PowerSoil r2	freshwater site 2	PowerSoil r2	water	freshwater	low
+12201.water.sea.A.2.zymoMA.L	12201.water.sea.A.3.zymoMA.L	1.8513441102729455	seawater site 1	Zymo MagBead	seawater site 1	Zymo MagBead	water	seawater	low
+12201.water.sea.A.2.nucleomag.L	12201.water.sea.A.1.nucleomag.L	1.8101401166050193	seawater site 1	NucleoMag Food	seawater site 1	NucleoMag Food	water	seawater	low
+12201.water.sea.B.1.microbiome.L	12201.water.sea.B.2.microbiome.L	0.42316589413244127	seawater site 2	MagMAX Microbiome	seawater site 2	MagMAX Microbiome	water	seawater	low
+12201.water.sea.B.1.microbiome.L	12201.water.sea.B.3.microbiome.L	0.5668967273400272	seawater site 2	MagMAX Microbiome	seawater site 2	MagMAX Microbiome	water	seawater	low
+12201.water.sea.B.1.zymoMA.L	12201.water.sea.B.2.zymoMA.L	0.6049511042531195	seawater site 2	Zymo MagBead	seawater site 2	Zymo MagBead	water	seawater	low
+12201.water.sea.B.1.zymoMA.L	12201.water.sea.B.3.zymoMA.L	0.44215199017573664	seawater site 2	Zymo MagBead	seawater site 2	Zymo MagBead	water	seawater	low
+12201.water.sea.B.2.microbiome.L	12201.water.sea.B.3.microbiome.L	0.2071215606536063	seawater site 2	MagMAX Microbiome	seawater site 2	MagMAX Microbiome	water	seawater	low
+12201.water.sea.B.2.zymoMA.L	12201.water.sea.B.3.zymoMA.L	0.8944786064276675	seawater site 2	Zymo MagBead	seawater site 2	Zymo MagBead	water	seawater	low
+12201.water.sea.B.2.powersoil.L	12201.water.sea.B.3.powersoil.L	0.6831134759663597	seawater site 2	PowerSoil r2	seawater site 2	PowerSoil r2	water	seawater	low
